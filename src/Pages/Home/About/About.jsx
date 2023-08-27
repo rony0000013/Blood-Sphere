@@ -18,8 +18,8 @@ const About = () => {
             <Container>
                 <Row>
                     <Col md={12} lg={6}>
-                        <div className="about-left">
-                            <img src={drop} alt="donto" className="img-fluid donto" />
+                        <div className="flex justify-center">
+                            <img style={{animation: "move-down 2s linear infinite", height: "80%", width: "70%"}} src={drop} alt="Blood" className="img-fluid donto mt-[10%]" />
                         </div>
                     </Col>
                     <Col md={12} lg={6}>

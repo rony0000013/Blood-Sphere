@@ -9,6 +9,50 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+#progressBarContainer {
+  position: fixed;
+  z-index: 10;
+  background: #ffffff;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+/* linear-gradient(to left, #09bd78, hsl(351, 83%, 61%)); */
+
+#progressBar {
+  background: red;
+  transform-origin: top leftt;
+  transform: scale(0, 0);
+  opacity: 1;
+
+}
+
+#progressBar,
+#progressBarContainer {
+  height: 10px;
+}
+@media(max-width:768px){
+  #progressBar,#progressBarContainer{
+    height: 7px;
+  }
+} 
+
+@keyframes move-down {
+  0% {
+    transform: translateY(-10%);
+  }
+  50% {
+    transform: translateY(10%);
+  }
+  100% {
+    transform: translateY(-10%);
+  }
 }
 
 code {

@@ -25,7 +25,7 @@ const Banner = () => {
                         </Col>
                         <Col md={12} sm={12} lg={6} className="mt-sm-5">
                             <div className="hero-slide-right text-center text-lg-start mt-sm-5">
-                                <img src={logo1} alt="" className="heroTeeth"/>
+                                <img src={logo1}  alt="" className="heroTeeth"/>
                             </div>
                         </Col>
                     </Row>
