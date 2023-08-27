@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <div className="footer-bg">
             <Container>
-                <Row className="text-white">
+                <Row className="text-black">
                     <Col xs={6} md={3}>
                         <div className="single-footer-widget">
                             <div className="widget-title">
@@ -48,7 +48,7 @@ const Footer = () => {
                     </Col>
                     <Col xs={6} md={3}>
                         <div className="single-footer-widget w-[120px] h-[10px]">
-                            <img className="logo" src={logo} alt="BloodSphere" />
+                            <img className="logo rounded" src={logo} alt="BloodSphere" />
                         </div>
                     </Col>
                 </Row>
