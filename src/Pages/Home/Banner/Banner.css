@@ -86,24 +86,6 @@
     z-index: 22;
 }
 
-/* .animate-img .aimg1 {
-    left: 210px;
-    position: relative;
-    animation: movebounce 2s ease-in-out infinite;
-    animation-delay: 100ms;
-    animation-direction: alternate;
-    bottom: 15px;
-}
-
-.animate-img .aimg2 {
-    position: relative;
-    left: 265px;
-    top: 30px;
-    animation-delay: 200ms;
-    animation: movebounce 2.5s ease-in-out infinite;
-    animation-direction: alternate;
-} */
-
 @keyframes movebounce {
     0% {
         transform: translateY(0px);
