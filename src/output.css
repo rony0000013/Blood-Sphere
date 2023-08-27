@@ -1509,8 +1509,28 @@ html {
   margin-top: 1.25rem;
 }
 
+.flex {
+  display: flex;
+}
+
 .list-item {
   display: list-item;
+}
+
+.h-\[10px\] {
+  height: 10px;
+}
+
+.w-72 {
+  width: 18rem;
+}
+
+.w-\[120px\] {
+  width: 120px;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .p-3 {
@@ -1523,6 +1543,21 @@ html {
 
 .text-start {
   text-align: start;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-green-600 {
+  --tw-text-opacity: 1;
+  color: rgb(22 163 74 / var(--tw-text-opacity));
 }
 
 .text-white {
