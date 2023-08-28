@@ -8,7 +8,7 @@
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <Summary> Table of Contents </Summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
