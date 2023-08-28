@@ -1,4 +1,4 @@
-# InterHacktive-Blood-Sphere
+# Blood-Sphere
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
