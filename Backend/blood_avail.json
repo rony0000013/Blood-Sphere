@@ -1,0 +1,1133 @@
+{
+    "data": [
+      {
+        "name": "Nehru Memorial Techno Global Hospital Blood Centre",
+        "address": "6, Barasat road,Barrackpore Dist-24 Parganas North, Barrackpore, North Twenty Four Parganas, West Bengal",
+        "phone": "9051255379",
+        "email": "nmtghbb@gmail.com",
+        "category": "Private",
+        "availability": {},
+        "pin": "700122"
+      },
+      {
+        "name": "Murshidabad Medical College & Hospital",
+        "address": "P.O.Baharampur, Berhampore, Murshidabad , West Bengal",
+        "phone": "9831463375, 9932613072,9748280944",
+        "email": "bloodbankmsd@gmail.com",
+        "category": "Private",
+        "availability": {
+          "A+": 1,
+          "O+": 2,
+          "AB+": 2
+        },
+        "pin": "742101"
+      },
+      {
+        "name": "Belle Vue Clinic Blood Centre",
+        "address": "9, Dr. U.N.Bramachari Street.,Kolkata, Kolkata, West Bengal",
+        "phone": "9903103088",
+        "email": "bloodbank@bellevueclinic.com",
+        "category": "Private",
+        "availability": {},
+        "pin": "700017"
+      },
+      {
+        "name": "Kandi S.D. Hospital Blood Centre",
+        "address": "KANDI SD HOSPITAL ROAD, KANDI, Kandi S.D. Hospital, P.O. : Kandi, Dist - Murshidabad, KANDI, Murshidabad , West Bengal",
+        "phone": "9433329361",
+        "email": "Kandibloodbank@gmail.com",
+        "category": "Govt.",
+        "availability": {
+          "B-": 1,
+          "AB-": 1
+        },
+        "pin": "742137"
+      },
+      {
+        "name": "Malda District Hospital",
+        "address": "Malda District Hospital, P.O.- Malda, Malda Medical College & Hospital, P.O. & Dist - Malda, Malda, Maldah, West Bengal",
+        "phone": "9434016599,09434191441, 09474519458",
+        "email": "artcentre.malda@gmail.com",
+        "category": "Govt.",
+        "availability": {
+          "A+": 4,
+          "AB+": 3,
+          "B+": 1,
+          "O+": 2
+        },
+        "pin": "732101"
+      },
+      {
+        "name": "Ranaghat S. D. Hospital Blood Centre",
+        "address": "P.O.-Anulia, Ranaghat S.D. Hospital, P.O. : Anulia, Dist - Nadia , Ranaghat, Nadia, West Bengal",
+        "phone": "7477629944",
+        "email": "ranaghatbloodbank@gmail.com",
+        "category": "Govt.",
+        "availability": {
+          "A-": 1,
+          "AB+": 12,
+          "B+": 44,
+          "A+": 12,
+          "B-": 1
+        },
+        "pin": "741201"
+      },
+      {
+        "name": "Rashmi Blood Centre",
+        "address": "Saheed Shibsankar Seba Samity,P.O.-Rajbati, Baburbag, Burdwan, Barddhaman, Purba Bardhaman, West Bengal",
+        "phone": "03422657251",
+        "email": "rbbbdn@gmail.com",
+        "category": "Private",
+        "availability": {
+          "A+": 25,
+          "AB+": 34,
+          "AB-": 1,
+          "B+": 104,
+          "B-": 1,
+          "O+": 94,
+          "O-": 4
+        },
+        "pin": "713104"
+      },
+      {
+        "name": "District Hospital, Jalpaiguri",
+        "address": "Hospital Para, Jalpaiguri Dist. Hospital, P.O. & Dist - Jalpaiguri , Jalpaiguri, Jalpaiguri, West Bengal",
+        "phone": "9434454619",
+        "email": "jbb.03561@gmail.com",
+        "category": "Govt.",
+        "availability": {},
+        "pin": "735101"
+      },
+      {
+        "name": "Lalbagh S.D. Hospital Blood Centre",
+        "address": "Lalbag ,Murshidabad, Lalbagh S.D. Hospital, P.O. : Lalbagh, Dist - Murshidabad, Murshidabad , Murshidabad , West Bengal",
+        "phone": "9434481693,9433028593",
+        "email": "bloodbanklalbagh@gmail.com",
+        "category": "Govt.",
+        "availability": {
+          "B+": 23,
+          "O+": 51
+        },
+        "pin": "742149"
+      },
+      {
+        "name": "Terai Lions Charitable Trust Blod Centre, Siliguri",
+        "address": "2nd Miles Sevoke Road, Darjeeling, Darjeeling, West Bengal",
+        "phone": "9733231771",
+        "email": "bhashkarbhardwaj@gmail.com",
+        "category": "Charitable/Vol",
+        "availability": {},
+        "pin": "734001"
+      },
+          {
+            "name": "College Of Medicine And Sagore Dutta Hospital",
+            "address": "Kmarhati, College of Med. & Sagar Dutta Hospital, Kamarhati, Kolkata - 58, Kamarhati, North Twenty Four Parganas, West Bengal",
+            "phone": "9830116902",
+            "email": "-",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700058"
+          },
+          {
+            "name": "Suri Sadar Dist. Hospital Blood Centre",
+            "address": "P.O. Suri, Suri Dist. Hospital, P.O. : Suri, Dist - Birbhum , Suri, Birbhum, West Bengal",
+            "phone": "9830388785,9474778520",
+            "email": "bloodbanksuridh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB-": 1,
+              "B-": 1
+            },
+            "pin": "731101"
+          },
+          {
+            "name": "Iq City Medical College And Hospital Blood Centre",
+            "address": "Bijra Road, Jaymua, Durgapur, Burdwan, Durgapur, Paschim Bardhaman, West Bengal",
+            "phone": "9163324545/8170009556",
+            "email": "bloodbank@iqct.in",
+            "category": "Private",
+            "availability": {},
+            "pin": "713206"
+          },
+          {
+            "name": "Siliguri District Hospital",
+            "address": "P.O. Siliguri, Siliguri District Hospital, P.O. : Siliguri, Dist - Darjeeling, Darjeeling, Darjeeling, West Bengal",
+            "phone": "7363003096,9932965219",
+            "email": "districthospitalsiliguri.bb@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "734001"
+          },
+          {
+            "name": "Burdwan Medical College And Hospital",
+            "address": "Purba Burdwan, Burdwan Medical College & Hospital BB, P.O. & Dist. - Burdwan, Burdwan, Purba Bardhaman, West Bengal",
+            "phone": "9474638140,9831964064",
+            "email": "bbbmch@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "713104"
+          },
+          {
+            "name": "Basirhat District Hospital Blood Centre",
+            "address": "S.D. Hospital Basirhat, P.O. : Basirhat, North Twenty Four Parganas, North Twenty Four Parganas, West Bengal",
+            "phone": "9883523048",
+            "email": "bsdhbloodbank@yahoo.in",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "743411"
+          },
+          {
+            "name": "Khatra Sdh",
+            "address": "P.O. - Khatra, Khatra, Bankura, West Bengal",
+            "phone": "7479042571",
+            "email": "bloodbankkhatra@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "A-": 2,
+              "O+": 21,
+              "AB+": 4,
+              "A+": 11,
+              "B+": 7
+            },
+            "pin": "722140"
+          },
+          {
+            "name": "Tata Medical Centre Trust",
+            "address": "14 Major Arterial (EW), Newtown, Rajarhat, Kolkata, Kolkata, Kolkata, West Bengal",
+            "phone": "3366057603",
+            "email": "suvrosankha.datta@tmckolkata.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700156"
+          },
+          {
+            "name": "Lions District 322b1 Blood Centre",
+            "address": "27/8A Waterloo Street, Kolkata, Kolkata, West Bengal",
+            "phone": "033-22485778/22485780, 7890522999",
+            "email": "lionsblood.bank@ymail.com",
+            "category": "Charitable/Vol",
+            "availability": {},
+            "pin": "700069"
+          },
+          {
+            "name": "Bhoruka Research Centre For Haematology And Blood Transfusion",
+            "address": "63 Rafi Ahmed Kidwai Road, Kolkata, Kolkata, Kolkata, West Bengal",
+            "phone": "033-22658092/9830314228",
+            "email": "bloodbank@bhoruka.org",
+            "category": "Charitable/Vol",
+            "availability": {},
+            "pin": "700016"
+          },
+          {
+            "name": "S.D. Hospital, Chandannagar",
+            "address": "P.O.-Chandannagar, Chandannagar S.D. Hospital Blood Bank, P.O. - Chandannagar, Dist. - Hooghly, CHANDANNAGAR, Hooghly, West Bengal",
+            "phone": "8240186183",
+            "email": "bloodbankchandannagar@yahoo.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 13,
+              "B+": 15
+            },
+            "pin": "712136"
+          },
+          {
+            "name": "Sri Ramkrishna Institute Of Medical Sciences & Sanaka Hospitals",
+            "address": "VILL+PO- MALANDIGHI, P.S- KANKSA, DURGAPUR, DIST- PASCHIM BARDHAMAN, Durgapur, Purba Bardhaman, West Bengal",
+            "phone": "7719364321",
+            "email": "sanakabloodbank@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "713212"
+          },
+          {
+            "name": "Om Blood Centre",
+            "address": "133/H/1, BELIAGHATA ROAD (OPPOSITE TO BELEGHATA SALE TAX OFFICE ENTRANCE GATE), Kolkata, Kolkata, West Bengal",
+            "phone": "8479919177, 03322518191",
+            "email": "ombloodbankkolkata@gmail.com",
+            "category": "Charitable/Vol",
+            "availability": {},
+            "pin": "700015"
+          },
+          {
+            "name": "Indian Association Of Blood Centre Cancer And Allied Diseases",
+            "address": "81-C Narkeldanga Main Rd Phool Bagan, Beliaghata Kolkata, West Bengal 700054, Beleghata, Kolkata, Kolkata, West Bengal",
+            "phone": "9038010972",
+            "email": "iabcd.81c@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700010"
+          },
+          {
+            "name": "Nadia District Hospital Blood Centre",
+            "address": "Saktinagar Krishnagar Nadia, Krishnanagar, Nadia, West Bengal",
+            "phone": "7719381913",
+            "email": "saktinagarbloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "741102"
+          },
+          {
+            "name": "Midnapur Medical College And Hospital",
+            "address": "P.O.- Midnapore , Medinipur Medical College & Hospital, P.O. & Dist - Medinipur (West) , Medinipur, Paschim Medinipur, West Bengal",
+            "phone": "9474069238,9433503553",
+            "email": "moicbloodbankmmch@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 30
+            },
+            "pin": "721101"
+          },
+          {
+            "name": "Gangarampur Sd Hospital",
+            "address": "Kaldighi Hospital Para, Kaldighi, Near B.Ed College,Gangarampur, Dakshin Dinajpur, Gangarampur, Dakshin Dinajpur, West Bengal",
+            "phone": "9474896980,9153320600, 9083295139",
+            "email": "bloodbank.gmp@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 68,
+              "AB-": 2,
+              "AB+": 6,
+              "A+": 7,
+              "O+": 28
+            },
+            "pin": "733124"
+          },
+          {
+            "name": "M/S Medica Super Specialty Hospital And Blood Centre",
+            "address": "1st Floor, 127, Mukundapur, E.M. Bypass, Kolkata, Kolkata, West Bengal",
+            "phone": "8981291808",
+            "email": "bloodbank.mshk@medicasynergie.in",
+            "category": "Private",
+            "availability": {},
+            "pin": "700099"
+          },
+          {
+            "name": "Sub Divisional Hospital Arambagh",
+            "address": "P.O. Arambagh, Arambagh S.D. Hospital Blood Bank, P.O. - Arambagh, Dist.-Hooghly, Arambagh, Hooghly, West Bengal",
+            "phone": "7602076525/9732872366,9830314228",
+            "email": "arambagh.sdhospital@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "A-": 1,
+              "AB-": 2,
+              "O+": 93,
+              "O-": 8
+            },
+            "pin":"712601"
+        }, 
+         {
+            "name": "Apollo Multispeciality Hospitals Ltd Blood Centre",
+            "address": "58, Canal Circular Road, Kolkata, Kolkata, West Bengal",
+            "phone": "9433070633/033-23203040/9641949552",
+            "email": "-",
+            "category": "Private",
+            "availability": {},
+            "pin": "700054"
+          },
+          {
+            "name": "Fortis Hospital Ltd.",
+            "address": "730, Anandpur, EM Bypass, Kolkata, Kolkata, West Bengal",
+            "phone": "9831254891,033-66284444/9831254891",
+            "email": "-",
+            "category": "Private",
+            "availability": {},
+            "pin": "700100"
+          },
+          {
+            "name": "Canning Subdivisional Hospital Blood Centre",
+            "address": "South 24 Pgs., Baruipur, Canning Road, Canning, West Bengal, canning town, South Twenty Four Parganas, West Bengal",
+            "phone": "7557032064",
+            "email": "bloodbank.canningsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700144"
+          },
+          {
+            "name": "S.D. Hospital,Ghatal",
+            "address": "P.O. Ghatal, Ghatal S.D. Hospital, P.O. : Ghatal, Dist - Medinipur (West), Paschim Medinipur, Paschim Medinipur, West Bengal",
+            "phone": "9474896980,9232362053",
+            "email": "ghatalsdhospital@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB-": 3,
+              "A+": 4,
+              "B+": 42,
+              "AB+": 11,
+              "O-": 2,
+              "O+": 104
+            },
+            "pin": "721212"
+          },
+          {
+            "name": "Blood Centre, Esic Hospital And ODC (E.Z.) Joka, Kolkata-104",
+            "address": "Diamond Harbour Road, P.O. Joka, Kolkata, Kolkata, West Bengal",
+            "phone": "9433348978, 033-29500733",
+            "email": "esicjokabloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700104"
+          },
+          {
+            "name": "The Indian Iron & Steel Company, Burnpur Hospital",
+            "address": "Burnpur Hospital, SAIL-IISCO Steel Plant, Burnpur, Burnpur, Asansol, Purba Bardhaman, West Bengal",
+            "phone": "9434776664, 09933778710",
+            "email": "bloodbank.burnpurhospital@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 3,
+              "B+": 11,
+              "A-": 1,
+              "O+": 3
+            },
+            "pin": "713325"
+          },
+          {
+            "name": "Kothari Medical Center Blood Centre",
+            "address": "8/3,alipore road, Kolkata, Kolkata, West Bengal",
+            "phone": "9073999449",
+            "email": "kotharibloodbank@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700027"
+          },
+          {
+            "name": "B.M. Birla Heart Research Centre Blood Centre",
+            "address": "1st floor,1 National Library Avenue, KOLKATA, Kolkata, West Bengal",
+            "phone": "03330403112",
+            "email": "bmbhrc.bloodbank@birlaheart.org",
+            "category": "Private",
+            "availability": {},
+            "pin": "700027"
+          },
+          {
+            "name": "Hemraj Blood Centre, Katwa S.D. Hospital",
+            "address": "P.O. Katwa, Burdwan, Katwa (Hemraj) S.D. Hospital, P.O. : Katwa, Dist - Burdwan, KATWA, Purba Bardhaman, West Bengal",
+            "phone": "9434387842,9933304056",
+            "email": "sdh.ktwa@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O-": 4,
+              "A+": 16,
+              "O+": 49,
+              "AB+": 6,
+              "AB-": 1,
+              "A-": 4,
+              "B+": 9,
+              "B-": 3
+            },
+            "pin": "731130"
+          },
+          {
+            "name": "S.D. Hospital,Kharagpur",
+            "address": "P.O. Kharagpur, Kharagpur S.D. Hospital, P.O. : Kharagpur, Dist - Medinipur (West), Paschim Medinipur, Paschim Medinipur, West Bengal",
+            "phone": "9434005862, 9433428496",
+            "email": "kgpsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 9,
+              "A+": 7,
+              "B-": 1
+            },
+            "pin": "721301"
+          },
+          {
+            "name": "Ramkrishna Mission Seva Prathisthan Blood Centre",
+            "address": "99 Sarat Bose Road, Kolkata, Kolkata, Kolkata, West Bengal",
+            "phone": "033-24753636/9434154741/9903330940",
+            "email": "rkmspsm@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700029"
+          },
+          {
+            "name": "Coochbehar (Mjn) Dh Blood Centre",
+            "address": "Coochbehar District Hospital (MJN) Blood Bank, Cooch Behar, Cooch Behar, West Bengal",
+            "phone": "9434191441/9474519458,9433135529",
+            "email": "mjnbloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": " 736101"
+          },
+          {
+            "name": "SAGARDIGHI SSH BLOOD CENTRE",
+            "address": "SAGARDIGHI SUPER SPECIALITY HOSPITAL, SAGARDIGHI,MURSHIDABAD, SAGARDIGHI, Murshidabad , West Bengal",
+            "phone": "3483230040",
+            "email": "Sagardighisshbloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 4,
+              "A+": 18,
+              "AB-": 1,
+              "O+": 17
+            },
+            "pin": "742226"
+          },
+          {
+            "name": "S.D Hospital , Bolpur",
+            "address": "P.O. Bolpur, Bolpur S.D. Hospital, P.O. : Bolpur, Dist - Birbhum, Bolpur, Birbhum, West Bengal",
+            "phone": "9232362053,9831187021",
+            "email": "bolpurbloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "A+": 2,
+              "O-": 2,
+              "AB+": 19,
+              "O+": 5,
+              "B+": 2
+            },
+            "pin": "731204"
+          },
+          {
+            "name": "Raiganj Blood Centre, Uttar Dinajpur Raiganj District Hospital",
+            "address": "P.O. Raiganj, Raiganj Dist. Hospital, P.O. : Raiganj, Dist - Uttar Dinajpur, RAIGANJ, Uttar Dinajpur, West Bengal",
+            "phone": "03523241400",
+            "email": "rdhbb2012@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "733134"
+          },
+          {
+            "name": "Peerless Hospitex Hospital And Research Center Limited",
+            "address": "360 Panchasayar, Kolkata, Kolkata, West Bengal",
+            "phone": "9051953591",
+            "email": "-",
+            "category": "Private",
+            "availability": {},
+            "pin": "700094"
+          },
+          {
+            "name": "BARJORA SUPER SPECIALITY HOSPITAL BLOOD CENTRE",
+            "address": "BARJORA SUPER SPECIALITY HOSPITAL BLOOD CENTRE, BARJORA, , Bankura, Bankura, West Bengal",
+            "phone": "9474458897",
+            "email": "barjorabloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 43,
+              "A+": 27,
+              "AB+": 14,
+              "O+": 74,
+              "O-": 3,
+              "A-": 2
+            },
+            "pin": "722202"
+          },
+          {
+            "name": "South Eastern Railway Main Hospital Blood Centre",
+            "address": "South Eastern Railway Main Hospital, Dist.- Paschim Medinipur, Kharagpur , Paschim Medinipur, West Bengal",
+            "phone": "9002081508",
+            "email": "bbserkgp@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "A+": 7,
+              "O-": 1,
+              "AB+": 12,
+              "O+": 26,
+              "B+": 20
+            },
+            "pin": "721301"
+          },
+          {
+            "name": "Tehatta SDH Blood Centre",
+            "address": "TEHATTA BLOOD CENTRE,TEHATTA SD HOSPITAL,TEHATTA,NADIA,WB, Tehatta, Nadia, West Bengal",
+            "phone": "9800671828",
+            "email": "tsdhbb2019@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 13,
+              "O-": 2,
+              "O+": 2,
+              "B+": 4
+            },
+            "pin": "741160"
+          },
+          {
+            "name": "S.D. Hospital, Uluberia",
+            "address": "P.O. Uluberia, Uluberia S.D. Hospital Blood Bank, P.O. - Uluberia, Dist.- Howrah, Howrah, Howrah, West Bengal",
+            "phone": "9433182956,9831060270",
+            "email": "supdt_ulusdh@wbhealth.gov.in",
+            "category": "Govt.",
+            "availability": {
+              "O+": 1,
+              "AB+": 3,
+              "B+": 6,
+              "AB-": 2
+            },
+            "pin": "711315"
+          },
+          {
+            "name": "Vivekananda Hospital Pvt. Ltd.",
+            "address": "Dr. Zakir Hussain Avenue, Bidhan Nagar, Durgapur , Durgapur, Purba Bardhaman, West Bengal",
+            "phone": "9933609660",
+            "email": "bloodbankvhpl@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "713206"
+          },
+          {
+            "name": "College Of Medicine & Jawaharlal Nehru Memorial Hospital Blood Centre",
+            "address": "P.O. Kalyani, Jawaharlal Nehru Memorial (JNM) Hospital, P.O. : Kalyani, Dist - Nadia, Kalyani, Nadia, West Bengal",
+            "phone": "9433792699",
+            "email": "com.jnm.bb.1996@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 6,
+              "A+": 1,
+              "B-": 5,
+              "O+": 3
+            },
+            "pin": "741235"
+          },
+          {
+            "name": "Rabindranath Tagore International Institute Of Cardiac Sciences Blood Centre",
+            "address": "124, Mukundapur, E.M Bypass, NH RTIICS, Kolkata , Kolkata, Kolkata, West Bengal",
+            "phone": "033-2436-4000, 8335801567",
+            "email": "pankaj.shrivastava.dr@narayanahealth.org",
+            "category": "Private",
+            "availability": {},
+            "pin": "700099"
+          },
+          {
+            "name": "Haldia Sub Divisional Hospital Blood Centre",
+            "address": "Basudevpur, P.O.-Khanganchak , Haldia S.D. Hospital, P.O. : Haldia, Dist - Medinipur (East), Basudebpur, Purba Medinipur, West Bengal",
+            "phone": "9434660913,8334900993",
+            "email": "haldiasdhbb@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "721602"
+          },
+          {
+            "name": "Gandhi Memorial Hospital Blood Centre",
+            "address": "P.O. NSS & P.S, Kalyani, Gandhi Memorial Hospital, P.O. : Kalyani, Dist - Nadia, Kalyani, Nadia, West Bengal",
+            "phone": "9433915014,9433559729",
+            "email": "gmh.bb2018@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "A+": 2,
+              "B+": 8,
+              "O+": 12,
+              "AB+": 2
+            },
+            "pin": "741235"
+          },
+          {
+            "name": "Bishnupur S.D. Hospital",
+            "address": "P.O. Bishnupur, Bishnupur District Hospital Blood Bank, P.O. - Bishnupur, Dist.-Bankura, Bishnupur, Bankura, West Bengal",
+            "phone": "9932772938,9002677366,9434167747",
+            "email": "supdt_bishnu@wbhealth.gov.in",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 5,
+              "B+": 1,
+              "A+": 1,
+              "O+": 71
+            },
+            "pin": "722122"
+          },
+          {
+            "name": "Barasat Cancer Research And Welfare Centre",
+            "address": "Banamalipur, Barasat , KOLKATA, Barasat, Kolkata, West Bengal",
+            "phone": "9051255379",
+            "email": "cancerbarasat@hotmail.com",
+            "category": "Charitable/Vol",
+            "availability": {},
+            "pin": "700124"
+          },
+          {
+            "name": "Institute Of Child Health Blood Centre",
+            "address": "11 Dr. Biresh Guha Street, Kolkata, Kolkata, West Bengal",
+            "phone": "9073945965",
+            "email": "ichbb.kol@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700017"
+          },
+          {
+            "name": "AMRI Hospitals Ltd. Blood Centre",
+            "address": "P-4 & 5, CIT scheme-m LXXII, Block A, 1st Floor,, Gariahat Road, Dhakuria, Kolkata, Kolkata, Kolkata, West Bengal",
+            "phone": "9748789030, 033-2461-2626",
+            "email": "bloodbank@amridhakuria.in",
+            "category": "Private",
+            "availability": {},
+            "pin": "700029"
+          },
+          {
+            "name": "Baruipur Sdh",
+            "address": "Baruipur, Kulpi Road, Baruipur, S. 24 Pgs, Near SBI, South Twenty Four Parganas, South Twenty Four Parganas, West Bengal",
+            "phone": "03324332043",
+            "email": "bb.baruipursdh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 26,
+              "A+": 8,
+              "AB+": 5,
+              "O+": 19
+            },
+            "pin": "700144"
+          },
+          {
+            "name": "Balurghat District Hospital",
+            "address": "P.O. Balurghat, Balurghat Dist. Hospital, P.O. : Balurghat, Dist - Dakshin Dinajpur, Dakshin Dinajpur, Dakshin Dinajpur, West Bengal",
+            "phone": "9434503552,8016039467",
+            "email": "bloodbank.dd@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "A-": 2
+            },
+            "pin": "733101"
+          },
+          {
+            "name": "Jangipur S.D. Hospital Blood Centre",
+            "address": "P.O. Jangipur, Jangipur S.D. Hospital, P.O. : Jangipur, Dist - Murshidabad, Jangipur, Murshidabad , West Bengal",
+            "phone": "937316022,9800244688",
+            "email": "supdt_janipr@wbhealth.gov.in",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 10,
+              "A+": 1,
+              "B+": 2,
+              "O+": 42
+            },
+            "pin": "742213"
+          },
+          {
+            "name": "JHARGRAMDH",
+            "address": "P.O. Jhargram, JHARGRAM GOVT. MEDICALE COLLEGE HOSPITAL, JHARGRAM, Jhargram, West Bengal",
+            "phone": "9434177966",
+            "email": "jhargramdhbloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 3
+            },
+            "pin": "721507"
+          },
+          {
+            "name": "Asansol Dist. Hospital",
+            "address": "P.O.-Asansol, Asansol Dist. Hospital, P.O. : Asansol, Dist - Burdwan, Asansol, Purba Bardhaman, West Bengal",
+            "phone": "9474347380,9434160366",
+            "email": "asansolsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B-": 3,
+              "O+": 18,
+              "B+": 29,
+              "A+": 9,
+              "AB+": 5
+            },
+            "pin": "713301"
+          },
+          {
+            "name": "S.D. Hospital, Kurseong",
+            "address": "P.O. Kurseong, Kurseong S.D. Hospital, P.O. : Kurseong, Dist - Darjeeling, Darjeeling, Darjeeling, West Bengal",
+            "phone": "9434176999,9474896980",
+            "email": "bloodbankkurseong@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "734203"
+          },
+          {
+            "name": "Nabadwip State General Hospital Blood Centre",
+            "address": "Nadia, Nabadwip, Nadia, West Bengal",
+            "phone": "9733022688,,9749885448",
+            "email": "nsghbloodbank@gmail.comcom",
+            "category": "Govt.",
+            "availability": {
+              "O+": 46,
+              "B+": 46
+            },
+            "pin": "741302"
+          },
+          {
+            "name": "Durgapurs.D. Hospital",
+            "address": "P.O. Durgapur, Durgapur S.D. Hospital, P.O. : Durgapur, Dist - Burdwan, DURGAPUR, Purba Bardhaman, West Bengal",
+            "phone": "9433609994",
+            "email": "durgapursdhbb@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 15,
+              "B+": 44,
+              "A+": 36,
+              "O+": 48
+            },
+            "pin": "713212"
+          },
+          {
+            "name": "Saroj Gupta Cancer And Research Institute Blood Centre",
+            "address": "Mahatma Gandhi Road, Thakurpukur, Kolkata, Kolkata, West Bengal",
+            "phone": "9073244573",
+            "email": "sgccri.bloodbank@gmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700063"
+          },
+          {
+            "name": "S.D. Hospital , Kalimpong",
+            "address": "Kalimpong Hospital Chotta Bhalukhop Kalimpong, West Bengal 734316, Kalimpong S.D. Hospital, P.O. : Kalimpong, Dist - Darjeeling, Kalimpong, Kalimpong, West Bengal",
+            "phone": "9733162153,9232380181",
+            "email": "bloodbankkalimpong@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 3,
+              "A+": 1
+            },
+            "pin": "734316"
+          },
+          {
+            "name": "Rampurhat S.D. Hospital",
+            "address": "P.O. Rampurhat, Rampurhat District Hospital, P.O. : Rampurhat, Dist - Birbhum, Birbhum, Birbhum, West Bengal",
+            "phone": "8768023683,9932613072",
+            "email": "rampurhatsdh@rediffmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 4,
+              "A+": 3,
+              "B-": 2,
+              "AB+": 2
+            },
+            "pin": "731224"
+          },
+          {
+            "name": "Sanjiban Hospital",
+            "address": "Fuleswas,P.O. Sijberia, Howrah, Howrah, West Bengal",
+            "phone": "9339207842,9674966026",
+            "email": "-",
+            "category": "Private",
+            "availability": {},
+            "pin": "711316"
+          }, {
+            "name": "Chittaranjan National Cancer Institute Blood Centre",
+            "address": "1st Floor Chittaranjan National Cancer Institute Blood Center, 2nd Campus Rajarhat, Street Number 299, DJ Block(Newtown), Action Area I, Newtown, New Town, Kolkata, Kolkata, West Bengal",
+            "phone": "9434367371, 9830840840",
+            "fax": "-",
+            "email": "helppdesk@gov.in",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700026"
+          },
+          {
+            "name": "Mal Super Speciality Hospital Blood Centre",
+            "address": "Mal Super Speciality Hospital, PO & PS,Mal, Jalpaiguri, West Bengal, Malbazar, Jalpaiguri, West Bengal",
+            "phone": "8902079777",
+            "fax": "-",
+            "email": "super.malsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 4,
+              "A+": 2,
+              "AB+": 2,
+              "B+": 4
+            },
+            "pin": "700026"
+          },
+          {
+            "name": "Pnnskura Super Speciality Hospital Blood Centre",
+            "address": "Uttar Mechogram, Panskura-1, , Panskura, Purba Medinipur, West Bengal",
+            "phone": "9830464893",
+            "fax": "-",
+            "email": "bloodbank.pssh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 3,
+              "AB-": 1,
+              "A+": 2,
+              "B+": 2,
+              "O+": 4
+            },
+            "pin": "721139"
+          },
+          {
+            "name": "Health Point -A Multispeciality Hospital Blood Centre",
+            "address": "21/1, Prannath Pandit Street, (Opp. Lansdown Padmapukur), Kolkata, Kolkata, Kolkata, West Bengal",
+            "phone": "7890798964",
+            "fax": "-",
+            "email": "healthpoint_bloodbank@rediffmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700025"
+          },
+          {
+            "name": "Blood Centre, The Mission Hospital ( A Unit Of Durgapur Medical Centre Pvt. Ltd.",
+            "address": "Plot No: 219(P), Sector-2C, Iman Kalyan Sarani, Bidhan Nagar, Durgapur, BARDHAMAN, West Bengal, Durgapur, Paschim Bardhaman, West Bengal",
+            "phone": "09800881800, 09800881649, 09800881728",
+            "fax": "-",
+            "email": "bloodbank@themissionhospital.in",
+            "category": "Private",
+            "availability": {},
+            "pin": "713212"
+          },
+          {
+            "name": "Kalna S.D. Hospital Blood Centre",
+            "address": "P.O. Kalna, Burdwan, Kalna S.D. Hospital, P.O. : Kalna, Dist - Burdwan, Kalna, Purba Bardhaman, West Bengal",
+            "phone": "9126442648",
+            "fax": "-",
+            "email": "kalnabloodbank1@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B-": 2
+            },
+            "pin": "713409"
+          },
+          {
+            "name": "Dr. Bidhan Chandra Roy Hospital Blood Centre,Haldia (A Unit Of ICARE)",
+            "address": "Haldia, Banbishnupur, P.O.- Balughata, P.S. Bhabanipur, Purba Medinipur, Haldia, Purba Medinipur, West Bengal",
+            "phone": "8250998271",
+            "fax": "3224269225",
+            "email": "bcrhbloodbankhaldia@gmail.com",
+            "category": "Private",
+            "availability": {
+              "A+": 4,
+              "O+": 20,
+              "B+": 3,
+              "AB+": 4
+            },
+            "pin": "721645"
+          },
+          {
+            "name": "Domkal Super Speciality Hospital Blood Centre",
+            "address": "DOMKAL, PO- DOMKAL, PS-DOMKAL , DIST-MURSHIDABAD, DOMKAL, MURSHIDABAD, WEST BENGAL, DOMKAL, Murshidabad , West Bengal",
+            "phone": "7278200259",
+            "fax": "-",
+            "email": "Bloodbank.sdmsdomkal@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O-": 1
+            },
+            "pin": " 742303"
+          },
+          {
+            "name": "Centreura Sammilani Medical College And Hospital",
+            "address": "Bankura Sammilani Medical College & Hospital Blood Bank., Gobindanagar, P.O. Kenduadihi., BANKURA, Bankura, West Bengal",
+            "phone": "03242244703",
+            "fax": "03242241366",
+            "email": "moicbloodbankbsmch@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 5,
+              "O+": 1,
+              "B-": 2
+            },
+            "pin": "722102"
+          },
+          {
+            "name": "Diamond Harbour Govt Medical College & Hospital Blood Centre",
+            "address": "P.O. +P.S. : Diamond Harbour, Dist - South 24 Parganas, Diamond Harbour, South Twenty Four Parganas, West Bengal",
+            "phone": "7547986938, 9432886141",
+            "fax": "-",
+            "email": "bloodbank.dhsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "743331"
+          },
+          {
+            "name": "Chittaranjan National Cancer Institute Blood Centre",
+            "address": "1st Floor Chittaranjan National Cancer Institute Blood Center, 2nd Campus Rajarhat, Street Number 299, DJ Block(Newtown), Action Area I, Newtown, New Town, Kolkata, Kolkata, West Bengal",
+            "phone": "9434367371, 9830840840",
+            "fax": "-",
+            "email": "helppdesk@gov.in",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700026"
+          },
+          {
+            "name": "Mal Super Speciality Hospital Blood Centre",
+            "address": "Mal Super Speciality Hospital, PO & PS,Mal, Jalpaiguri, West Bengal, Malbazar, Jalpaiguri, West Bengal",
+            "phone": "8902079777",
+            "fax": "-",
+            "email": "super.malsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 4,
+              "A+": 2,
+              "AB+": 2,
+              "B+": 4
+            },
+            "pin": "735221"
+          },
+          {
+            "name": "Pnnskura Super Speciality Hospital Blood Centre",
+            "address": "Uttar Mechogram, Panskura-1, , Panskura, Purba Medinipur, West Bengal",
+            "phone": "9830464893",
+            "fax": "-",
+            "email": "bloodbank.pssh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 3,
+              "AB-": 1,
+              "A+": 2,
+              "B+": 2,
+              "O+": 4
+            },
+            "pin": "721139"
+          },
+          {
+            "name": "Health Point -A Multispeciality Hospital Blood Centre",
+            "address": "21/1, Prannath Pandit Street, (Opp. Lansdown Padmapukur), Kolkata, Kolkata, Kolkata, West Bengal",
+            "phone": "7890798964",
+            "fax": "-",
+            "email": "healthpoint_bloodbank@rediffmail.com",
+            "category": "Private",
+            "availability": {},
+            "pin": "700025"
+          },
+          {
+            "name": "Blood Centre, The Mission Hospital ( A Unit Of Durgapur Medical Centre Pvt. Ltd.",
+            "address": "Plot No: 219(P), Sector-2C, Iman Kalyan Sarani, Bidhan Nagar, Durgapur, BARDHAMAN, West Bengal, Durgapur, Paschim Bardhaman, West Bengal",
+            "phone": "09800881800, 09800881649, 09800881728",
+            "fax": "-",
+            "email": "bloodbank@themissionhospital.in",
+            "category": "Private",
+            "availability": {},
+            "pin": "713212"
+          },
+          {
+            "name": "Chittaranjan National Cancer Institute Blood Centre",
+            "address": "1st Floor Chittaranjan National Cancer Institute Blood Center, 2nd Campus Rajarhat, Street Number 299, DJ Block(Newtown), Action Area I, Newtown, New Town, Kolkata, Kolkata, West Bengal",
+            "phone": "9434367371, 9830840840",
+            "fax": "-",
+            "email": "helppdesk@gov.in",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700026"
+          },
+          {
+            "name": "Mal Super Speciality Hospital Blood Centre",
+            "address": "Mal Super Speciality Hospital, PO & PS,Mal, Jalpaiguri, West Bengal, Malbazar, Jalpaiguri, West Bengal",
+            "phone": "8902079777",
+            "fax": "-",
+            "email": "super.malsdh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 4,
+              "A+": 2,
+              "AB+": 2,
+              "B+": 4
+            },
+            "pin": "735221"
+          },
+          {
+            "name": "Pnnskura Super Speciality Hospital Blood Centre",
+            "address": "Uttar Mechogram, Panskura-1, , Panskura, Purba Medinipur, West Bengal",
+            "phone": "9830464893",
+            "fax": "-",
+            "email": "bloodbank.pssh@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 3,
+              "AB-": 1,
+              "A+": 2,
+              "B+": 2,
+              "O+": 4
+            },
+            "pin": "721139"
+          },
+         
+          {
+            "name": "Central Hospital Kalla, Ecl Blood Centre",
+            "address": "Domohani Rd, Asansol, Paschim Bardhaman, West Bengal",
+            "phone": "9434797159",
+            "fax": "-",
+            "email": "sarojanandjha1961@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 2,
+              "O+": 2,
+              "A+": 1
+            },
+            "pin": "713340"
+          },
+          {
+            "name": "District Hospital Howrah Blood Centre",
+            "address": "Howrah Dist. Hospital Blood Bank, 9, Biplabi Haren Ghosh Sarani, Howrah, Howrah, West Bengal",
+            "phone": "9432401182,9002022505",
+            "fax": "-",
+            "email": "hdh.bloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "AB+": 4,
+              "B+": 20
+            },
+            "pin": "711101"
+          },
+          {
+            "name": "North Bengal Medical College Hospital Blood Centre",
+            "address": "P.O. Shusrut Nagar, North Bengal Medical College & Hospital, P.O. : Shusrut Nagar, Dist - Darjeeling, Darjeeling, Darjeeling, West Bengal",
+            "phone": "9434121152,9433038175",
+            "fax": "-",
+            "email": "mridumaydas@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "O+": 25,
+              "B+": 37,
+              "AB+": 4,
+              "A+": 35
+            },
+            "pin": "734012"
+          },
+          {
+            "name": "Durgapur Steel Plant Hospital",
+            "address": "J. M. Sengupta Road, Durgapur-05, Burdwan, B-Zone, DURGAPUR, Paschim Bardhaman, West Bengal",
+            "phone": "9434792433,9434792785",
+            "fax": "-",
+            "email": "dandajayati@gmail.com",
+            "category": "Govt.",
+            "availability": {
+              "B+": 6,
+              "A+": 7,
+              "AB+": 2,
+              "O+": 11,
+              "O-": 1
+            },
+            "pin": "743271"
+          },
+          {
+            "name": "N.R.S. Medical College Hospital Blood Centre",
+            "address": "138, A.J.C. Bose Road",
+            "phone": "9433135529,9800881721",
+            "fax": "-",
+            "email": "rathinkarmakar@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700020"
+          },
+          {
+            "name": "Tamluk Dist. Hospital Blood Centre",
+            "address": "P.O. Tamluk",
+            "phone": "03228263233",
+            "fax": "-",
+            "email": "tamlukdbb@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "721636"
+          },
+          {
+            "name": "Barasat District Hospital Blood Centre",
+            "address": "NORTH 24 PARAGANAS DISTRICT HOSPITAL, Jessore Road, PO Barasat",
+            "phone": "9433185560",
+            "fax": "-",
+            "email": "bloodbank.bdh@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700080"
+          },
+          {
+            "name": "Calcutta Medical College And Hospital Blood Centre",
+            "address": "88 College Street",
+            "phone": "03322551591, 9433737234",
+            "fax": "-",
+            "email": "medicalcollegebloodbank@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700073"
+          },
+          {
+            "name": "Calcutta National Medical College Hospital Blood Centre",
+            "address": "24, Gorachand Road",
+            "phone": "9231856613, 033-22848397",
+            "fax": "-",
+            "email": "cnmchbb@gmail.com",
+            "category": "Govt.",
+            "availability": {},
+            "pin": "700014"
+          }
+    ]
+  }
+  
