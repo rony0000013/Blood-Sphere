@@ -32,13 +32,13 @@ const Appoinment = () => {
                         <div className="appoinment-form">
                             <form ref={form} onSubmit={sendEmail}  className="row">
                                 <Col md={6} lg={6}>
-                                    <input type="text" data-aos="fade-right" name="user_name" placeholder="Enter Your Name" />
+                                    <input type="text" data-aos="fade-right" name="user_name" placeholder="Enter Your Name" required />
                                 </Col>
                                 <Col md={6} lg={6} >
-                                    <input data-aos="fade-left" type="email" name="user_email" placeholder="Enter Your Email" />
+                                    <input data-aos="fade-left" type="email" name="user_email" placeholder="Enter Your Email" required />
                                 </Col>
                                 <Col md={12} lg={12}>
-                                    <textarea data-aos="fade-up" name="message" id="" cols="30" rows="10" placeholder="Enter The Message In Brief"></textarea>
+                                    <textarea data-aos="fade-up" name="message" id="" cols="30" rows="10" placeholder="Enter The Message In Brief" required></textarea>
                                 </Col>
                                 <div className="text-center" data-aos="fade-up" >
                                     <button value="Send" type="submit" className="form-btn  w-full" >Submit</button>
