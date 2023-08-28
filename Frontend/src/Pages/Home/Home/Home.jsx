@@ -14,7 +14,7 @@ const Home = () => {
             <Feature />
             <FAQ />
             <Appoinment />
-            <ScrollToTop className="text-red" smooth viewBox="0 0 24 24" svgPath=""/>
+            <ScrollToTop className="text-red" smooth viewBox="0 10 750 1024" svgPath="M32 32h960v64H32z m480 105.6L118.4 531.2l44.8 48L480 262.4V992h64V262.4l316.8 316.8 44.8-48L512 137.6z"/>
         </div>
     );
 };
