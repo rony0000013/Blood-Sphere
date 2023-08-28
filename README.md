@@ -3,15 +3,14 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/INTERHACKTIVE.jpg" height=250px width=250px>
     <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="270" height="270">
   </a>
    
 </div>
-<a href="https://youtu.be/GIesmWSPkQM?si=URWYIPF2jeZdHIcz"> Watch Demo</a>
+<h2><a href="https://youtu.be/jl1RaLSiyIQ?si=ufYezCz2HaZnFGlL"> Watch Demo</a></h2>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <Summary> Table of Contents </Summary>
+  <Summary><h2> Table of Contents </h2></Summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -68,9 +67,13 @@ Blood Donation and Searching during contingency
 Imagine being in a critical situation where someone in need requires an urgent blood transfusion. Instead of panicking and rushing to distant blood banks, people can open our blood donation and searching website and try our ‘BloodSphere Bot’. With just a few clicks, you can easily find nearby blood banks/ hospitals with the compatible blood type. Our platform with its user-friendly interface, ensures you're always aware of compatible blood availability during emergencies, saving precious time and potentially saving lives.
 ### 💡What problem does the project solve?
 •  Time constraints: In critical situations, people may waste valuable time searching for blood sources, which can delay life-saving treatment. <br>
+
 •  Effective communication: Traditional ways to find blood donors can be time-consuming and involve long phone calls and large networks, which can slow down the process of getting the blood type you need. <br>
+
 •  Different distribution of blood types: Lack of a centralized system can lead to mismatched blood types which can be dangerous or even fatal. <br>
+
 •  Geographic constraints: Patients may not know where the closest blood bank is located, which can lead to wasted travel to remote areas. <br>
+
 •  Low donor turnout: A lack of visibility and convenient access to donation centres can contribute to low donor turnout and insufficient blood supply.
 
 
@@ -85,15 +88,20 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 
 ### 💀 Challenges we Faced:
+
 •	Getting a free API to implement the bot was a heavy task.
+
 •	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
+
 •	 We couldn’t find any extensive live database that could be implemented in our database.
+
 •	The bot was to be implemented using WhatsApp API from Twilio but META makes it mandatory to have a Facebook page and takes about 3 weeks for verification, which was not feasible for us.
 
 
  
 ### 🔮 Future Goals:
 • For this project, as we couldn't get an extensive dataset, Our Future plan is to take some aid from the government to get access to some live data covering the availability of the various blood types across the country.
+
 • Optimisation and minor bug fixes.
 
 
@@ -136,21 +144,21 @@ You must have followings installed  in your system , If you dont we got you cove
 ## Installation
 1. clone repo
  ```
-  git clone : https://github.com/Soumyajit2825/Blood-Sphere.git
-   ```
+ $ git clone : https://github.com/Soumyajit2825/Blood-Sphere.git
+ ```
   **_Front-end Installation_**
 1. Navigate to frontend folder
-  ```
-cd Frontend
+```
+$ cd Frontend
 ```
 2. Install necessary Libraries 
 ```
-npm i
+$ npm i
 ```
 3. To run fronted on local server
 
 ```
-npm start
+$ npm start
 ```
 **_Backend Installation_**
 If you do not want to deploy the bot, bot is already deployed: https://t.me/blood_sphere_bot
