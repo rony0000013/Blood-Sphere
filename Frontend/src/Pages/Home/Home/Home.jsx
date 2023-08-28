@@ -8,15 +8,16 @@ import FAQ from "../FAQ/FAQ";
 import ScrollToTop from "react-scroll-to-top";
 const Home = () => {
     return (
-        <>
+        <div className="w-[100%] overflow-hidden">
             <Banner />
             <About />
             <Feature />
             <FAQ />
             <Appoinment />
-            <ScrollToTop className="text-red" smooth />
-        </>
+            <ScrollToTop className="text-red" smooth viewBox="0 0 24 24" svgPath=""/>
+        </div>
     );
 };
 
 export default Home;
+
