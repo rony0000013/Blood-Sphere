@@ -1,7 +1,7 @@
 import { Col, Container, Row } from "react-bootstrap";
 import "./Banner.css";
 import logo1 from "../../../Images/blood-donation-6035211_1280.png";
-import Typewriter from 'typewriter-effect';
+import Typewriter from "typewriter-effect";
 
 const Banner = () => {
     return (
