@@ -36,7 +36,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#how-to-use">How To Use</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -44,7 +44,8 @@
   </ol>
 </details>
   <!-- ABOUT THE PROJECT -->
-## 🤩🤩About The Project🤩🤩
+  
+  # 🩸🩸About The Project 🩸🩸
 
 
 
@@ -139,17 +140,21 @@ For setting up your project locally, follow these simple steps.
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- How to  Use -->
+## How To Use
 &nbsp; 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-
-
-
-See the [open issues](https://github.com/arnab2001/Ledged/issues) for a full list of proposed features (and known issues).
+- [x] Open BloodSpehere Website
+- [x] Login With Your Credentials
+- [x] Click on Search/Donate
+- [x] Interact with the bot to meet your purpose
+     ### Commands To Interact
+- [x] /start - to start interacting with the bot
+- [x] /get - to search blood groups
+- [x] /donate - to find nearby blood donation camps
+- [ ] Live data fetch and update(Future plan)
+### WorkFLow
+![](https://github.com/Koustavjr/Blood-Sphere/blob/master/src/Images/workflow.jpg)
+      
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -160,7 +165,7 @@ See the [open issues](https://github.com/arnab2001/Ledged/issues) for a full lis
 
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "improvement".
-Don't forget to star this project!! 
+Don't forget to ⭐ this project!! 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/Feature1`)
