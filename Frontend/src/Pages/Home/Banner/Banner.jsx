@@ -15,7 +15,7 @@ const Banner = () => {
                             <div className="hero-slide-left justify-content-end align-items-center text-center text-lg-start">
                                 <Typewriter
                                     options={{
-                                        strings: ["Better Life Through", "Better Health"],
+                                        strings: ["Giving Blood", "Giving Life"],
                                         autoStart: true,
                                         loop: true,
                                         skipAddStyles: false,
@@ -30,7 +30,7 @@ const Banner = () => {
                                     {isAuthenticated ? (<>
                                         <a href="https://t.me/blood_sphere_bot">
                                         <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
-                                            Serach For Blood
+                                            Search For Blood
                                         </button>
                                     </a>{" "}
                                     <a href="https://t.me/blood_sphere_bot">
