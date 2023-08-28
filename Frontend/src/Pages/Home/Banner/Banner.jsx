@@ -27,7 +27,7 @@ const Banner = () => {
                                 <div className="banner-btn m-sm-auto">
                                     <a href="https://t.me/blood_sphere_bot">
                                         <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
-                                            Serach For Blood
+                                            Search For Blood
                                         </button>
                                     </a>{" "}
                                     <a href="https://t.me/blood_sphere_bot">
