@@ -3,7 +3,8 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="250" height="250">
+    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/INTERHACKTIVE.jpg" height=250px width=250px>
+    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="270" height="270">
   </a>
    
 </div>
