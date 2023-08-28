@@ -26,7 +26,7 @@ body {
 /* linear-gradient(to left, #09bd78, hsl(351, 83%, 61%)); */
 
 #progressBar {
-  background: red;
+  background: #ff9791;
   border-radius: 7px;
   transform-origin: top leftt;
   transform: scale(0, 0);

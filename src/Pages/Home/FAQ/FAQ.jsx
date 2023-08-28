@@ -2,12 +2,12 @@ import Accordion from "react-bootstrap/Accordion";
 
 const FAQ = () => {
     return (
-        <div className="m-[5%]">
+        <div className="p-[5vw] m-[2vw]  w-[96vw] ">
             <h1 className="text-center text-4xl font-bold mb-5">Getting Started with the BOT</h1>
             <Accordion defaultActiveKey={['0']} >
                 <Accordion.Item eventKey="0" >
-                    <Accordion.Header>Install Telegram on Device</Accordion.Header>
-                    <Accordion.Body>
+                    <Accordion.Header >Install Telegram on Device</Accordion.Header>
+                    <Accordion.Body className="bg-gray-200">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
                         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
                         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -27,7 +27,7 @@ const FAQ = () => {
                         non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </Accordion.Body>
                 </Accordion.Item>
-                <Accordion.Item eventKey="3">
+                <Accordion.Item eventKey="2">
                     <Accordion.Header>Use /start to start interacting with the bot</Accordion.Header>
                     <Accordion.Body>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -38,7 +38,7 @@ const FAQ = () => {
                         non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </Accordion.Body>
                 </Accordion.Item>
-                <Accordion.Item eventKey="4">
+                <Accordion.Item eventKey="3">
                     <Accordion.Header>Use /get to search Blood Groups</Accordion.Header>
                     <Accordion.Body>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
