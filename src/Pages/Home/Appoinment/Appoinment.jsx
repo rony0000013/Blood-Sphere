@@ -5,12 +5,12 @@ import './Appoinment.css';
 
 const Appoinment = () => {
     return (
-        <section id="contact" className="appoinment-wrapper">
+        <section id="contact" className="appoinment-wrapper ss:p-5 p-3">
             <Container>
                 <Row>
                     <Col sm={12} md={12}>
                         <div className="section-title">
-                            <h1 className="flex justify-center text-2xl">Contact Us</h1>
+                            <h1 className="text-center text-4xl font-bold">Contact Us</h1>
                         </div>
                         <div className="appoinment-form">
                             <form action="#" className="row">
@@ -29,7 +29,10 @@ const Appoinment = () => {
                                 <Col md={12} lg={12}>
                                     <textarea name="Message" id="" cols="30" rows="10" placeholder="Enter The Message In Brief"></textarea>
                                 </Col>
-                                <Link to="/approved"><button className="theme-btn btn-fill form-btn mt-5">Submit</button></Link>
+                                <div className="col-md-12 text-center">
+                                <Link to="/approved"><button className="theme-btn btn-fill form-btn mt-5 mb-4">Submit</button>
+                                </Link>
+                                </div>
                             </form>
                         </div>
                     </Col>

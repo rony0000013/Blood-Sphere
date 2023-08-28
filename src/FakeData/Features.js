@@ -16,7 +16,25 @@ export const FakeFeatures = [
         "title": "24/7 Service",
         "description": "Lorem Ipsum is simply is very dummy text of the printings and type setting",
         "img": "https://aceheartinstitute.com/wp-content/uploads/2022/05/Untitled-3.jpg"
-    }
+    },
+    {
+        "id": "003",
+        "title": "24/7 Service",
+        "description": "Lorem Ipsum is simply is very dummy text of the printings and type setting",
+        "img": "https://aceheartinstitute.com/wp-content/uploads/2022/05/Untitled-3.jpg"
+    },
+    {
+        "id": "003",
+        "title": "24/7 Service",
+        "description": "Lorem Ipsum is simply is very dummy text of the printings and type setting",
+        "img": "https://aceheartinstitute.com/wp-content/uploads/2022/05/Untitled-3.jpg"
+    },
+    {
+        "id": "003",
+        "title": "24/7 Service",
+        "description": "Lorem Ipsum is simply is very dummy text of the printings and type setting",
+        "img": "https://aceheartinstitute.com/wp-content/uploads/2022/05/Untitled-3.jpg"
+    },
 ]
 
 

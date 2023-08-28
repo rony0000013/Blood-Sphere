@@ -14,7 +14,7 @@ const About = () => {
         AOS.refresh();
       }, []);
     return (
-        <section id="about" className="about-wrapper">
+        <section id="about" className="about-wrapper pr-4">
             <Container>
                 <Row>
                     <Col md={12} lg={6}>
@@ -25,7 +25,7 @@ const About = () => {
                     <Col md={12} lg={6}>
                         <div className="about-right mt-5 mt-lg-0">
                             <div className="about-content text-start text-lg" data-aos="zoom-in">
-                                <h1>Welcome to our Family</h1>
+                                <h1 className="text-center text-4xl font-bold">Welcome to our Family</h1>
                                 <p>At BloodSphere, We are committed to saving lives and connect compassionate donors with those in urgent need. With a strong emphasis on confidentiality and safety, we ensure a secure environment for donors and recipients alike. Join us in our mission to make a difference – every drop of blood donated brings us closer to a healthier, happier community. Together, we can create a lifeline of hope through the selfless act of giving.</p>
                                 <a href='#about'>About Us</a>
                             </div>

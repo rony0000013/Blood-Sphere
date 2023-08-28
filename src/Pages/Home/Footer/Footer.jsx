@@ -4,11 +4,11 @@ import './Footer.css'
 import logo from '../../../Images/BLOODSPHERE-01.jpeg';
 const Footer = () => {
     return (
-        <div className="footer-bg">
+        <div className="footer-bg p-2">
             <Container>
                 <Row className="text-black">
                     <Col xs={6} md={3}>
-                        <div className="single-footer-widget">
+                        <div className="single-footer-widget ml-10">
                             <div className="widget-title">
                                 <h2>Pages</h2>
                             </div>
@@ -34,7 +34,7 @@ const Footer = () => {
                         </div>
                     </Col>
                     <Col xs={6} md={3}>
-                        <div className="single-footer-widget">
+                        <div className="single-footer-widget ml-10">
                             <div className="widget-title">
                                 <h2>Our Team</h2>
                             </div>
@@ -47,7 +47,7 @@ const Footer = () => {
                         </div>
                     </Col>
                     <Col xs={6} md={3}>
-                        <div className="single-footer-widget w-[120px] h-[10px]">
+                        <div className="single-footer-widget w-[100px] h-[10px] ml-6">
                             <img className="logo rounded" src={logo} alt="BloodSphere" />
                         </div>
                     </Col>

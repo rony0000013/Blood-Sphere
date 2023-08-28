@@ -6,7 +6,7 @@ import logo1 from "../../../Images/blood-donation-6035211_1280.png";
 const Banner = () => {
     return (
         <>
-            <section className="single-hero-slide text-black d-flex justify-content-center align-items-center pb-[10vh] pt-2">
+            <section className="single-hero-slide text-black d-flex justify-content-center align-items-center pb-[10vh] pt-2 pl-4">
                 <Container>
                     <Row className="align-items-center">
                         <Col md={12} sm={12} lg={6}>

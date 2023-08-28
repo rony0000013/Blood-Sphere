@@ -1,9 +1,9 @@
-.feature-wrapper {
+/* .feature-wrapper {
     padding: 120px 0;
-}
+} */
 .single-feature-box {
     border-radius: 10px;
-    background-color: #004caa;
+    background-color: #CDB4DB;
     box-shadow: 8.135px 18.271px 40px 0 rgb(0 0 0 / 8%);
     padding: 60px 50px 75px;
     transition: all .4s;
@@ -40,12 +40,13 @@
     font-size: 24px;
     line-height: 36px;
     font-family: "Josefin Sans", sans-serif;
-    color:#fff;
+    color:black;
 }
 
 .single-feature-box p {
-    color: white;
-    font-family: 'Roboto Slab', serif;
+    color: black;
+    font-size:20px;
+    font-family: 'Josefin Sans', serif;
 }
 
 
