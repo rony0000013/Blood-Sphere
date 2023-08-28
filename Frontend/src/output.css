@@ -1542,6 +1542,10 @@ html {
   margin-top: 10%;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .flex {
   display: flex;
 }
