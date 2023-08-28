@@ -10,7 +10,7 @@ const Appoinment = () => {
                 <Row>
                     <Col sm={12} md={12}>
                         <div className="section-title">
-                            <h1 className="mt-5">Contact Us</h1>
+                            <h1 className="flex justify-center text-2xl">Contact Us</h1>
                         </div>
                         <div className="appoinment-form">
                             <form action="#" className="row">

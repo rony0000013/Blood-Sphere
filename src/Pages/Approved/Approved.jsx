@@ -7,7 +7,7 @@ const Approved = () => {
         <Container>
             <Row className="align-items-center">
                 <Col md={12} lg={12} sm={12} className="text-center mb-5">
-                    <div className="section-title mt-5">
+                    <div className="section-title mt-5 text-2xl text-green-600">
                         <h1>Your request has been</h1>
                     </div>
                 </Col>

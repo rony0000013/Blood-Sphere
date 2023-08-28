@@ -1,11 +1,12 @@
 import React from 'react';
 import { Col, Container, NavLink, Row } from 'react-bootstrap';
 import './Footer.css'
+import logo from '../../../Images/BLOODSPHERE-01.jpeg';
 const Footer = () => {
     return (
         <div className="footer-bg">
             <Container>
-                <Row className="text-white">
+                <Row className="text-black">
                     <Col xs={6} md={3}>
                         <div className="single-footer-widget">
                             <div className="widget-title">
@@ -30,6 +31,24 @@ const Footer = () => {
                                 <NavLink className="footer-link">College: Academy Of Technology</NavLink>
                                 <NavLink className="footer-link">Phone: +91 6294096170</NavLink>
                             </div>
+                        </div>
+                    </Col>
+                    <Col xs={6} md={3}>
+                        <div className="single-footer-widget">
+                            <div className="widget-title">
+                                <h2>Our Team</h2>
+                            </div>
+                            <div className="widget-content">
+                                <NavLink className="footer-link">Rounak Sen</NavLink>
+                                <NavLink className="footer-link">Soumyajit Mondal</NavLink>
+                                <NavLink className="footer-link">Koustav Chatterjee</NavLink>
+                                <NavLink className="footer-link">Rohit Chakrabarti</NavLink>
+                            </div>
+                        </div>
+                    </Col>
+                    <Col xs={6} md={3}>
+                        <div className="single-footer-widget w-[120px] h-[10px]">
+                            <img className="logo rounded" src={logo} alt="BloodSphere" />
                         </div>
                     </Col>
                 </Row>

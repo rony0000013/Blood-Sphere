@@ -1,7 +1,5 @@
 .single-hero-slide {
-    background-color: #004caa;
-    /* padding-top: 100px; */
-    /* padding-bottom: 220px; */
+    background-color: #CDB4DB;
     font-family: "Josefin Sans", sans-serif;
 }
 
@@ -20,14 +18,14 @@
 }
 
 .hero-slide-left p {
-    color: #ddd!important;
+    color: #ddd;
     font-family: 'Roboto Slab', serif;;
 }
 
 .hero-slide-left button {
     margin-top: 4vh;
     font-weight: 700;
-    outline: none!important;
+    outline: none;
     cursor: pointer;
     font-family: 'Roboto Slab', serif;
 }
