@@ -15,21 +15,21 @@ const Appoinment = () => {
                         <div className="appoinment-form">
                             <form action="#" className="row">
                                 <Col md={6} lg={6}>
-                                    <input type="text" placeholder="Enter Your Name" />
+                                    <input type="text" data-aos="fade-right" placeholder="Enter Your Name" />
+                                </Col>
+                                <Col md={6} lg={6} >
+                                    <input data-aos="fade-left" type="email" placeholder="Enter Your Email" />
                                 </Col>
                                 <Col md={6} lg={6}>
-                                    <input type="email" placeholder="Enter Your Email" />
+                                    <input type="phone" data-aos="fade-right" placeholder="Enter Your Phone" />
                                 </Col>
                                 <Col md={6} lg={6}>
-                                    <input type="phone" placeholder="Enter Your Phone" />
-                                </Col>
-                                <Col md={6} lg={6}>
-                                    <input type="text" placeholder="Enter The Subject" />
+                                    <input type="text" data-aos="fade-left" placeholder="Enter The Subject" />
                                 </Col>
                                 <Col md={12} lg={12}>
-                                    <textarea name="Message" id="" cols="30" rows="10" placeholder="Enter The Message In Brief"></textarea>
+                                    <textarea data-aos="fade-up" name="Message" id="" cols="30" rows="10" placeholder="Enter The Message In Brief"></textarea>
                                 </Col>
-                                <div className="col-md-12 text-center">
+                                <div className="col-md-12 text-center" >
                                 <Link to="/approved"><button className="theme-btn btn-fill form-btn mt-5 mb-4">Submit</button>
                                 </Link>
                                 </div>
