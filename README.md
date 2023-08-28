@@ -53,9 +53,11 @@
 
 ### 💭Inspiration :
 
+• Unawareness of compatible blood availability nearby during emergency: People in need of blood during accidents/ emergency situations tend to rush to blood banks that are far away, potentially risking their life, assuming that there are no blood banks nearby. <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Blockchain (One of the ways to implement decentralization)** steps into the picture to solve our problems. 
+• Not knowing where to donate blood: Other than occasional blood donation campaigns, people are often unaware about the fact that the local hospitals run of certain blood types wherein potential blood donors can help them out.
 
+&nbsp;&nbsp;&nbsp;&nbsp; 
 ### 💡What problem does the project solve?
 
 
@@ -98,35 +100,51 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 For setting up your project locally, follow these simple steps.
-
 ### Prerequisites
-
-
-
-### Installation
-
-*_How to setup this project_*
-
-1. Clone the repo
-   ```sh
-   git clone 
-3. Install all the NPM packages
-   ```sh
-   
+You must have followings installed  in your system , If you dont we got you covered  
+1. [Install NPM](https://phoenixnap.com/kb/install-node-js-npm-on-windows)
+2. [Install Pip](https://pip.pypa.io/en/stable/cli/pip_install/)
+3. [Python Download](https://www.python.org/downloads/)
+## Installation
+1. clone repo
+ ```
+  git clone : https://github.com/Soumyajit2825/Blood-Sphere.git
    ```
-4. configure `.env` and add
-   ```
-   ```
+  **_Front-end Installation_**
+1. Navigate to frontend folder
+  ```
+cd Frontend
+```
+2. Install necessary Libraries 
+```
+npm i
+```
+3. To run fronted on local server
+
+```
+npm start
+```
+**_Backend Installation_**
+If you do not want to deploy the bot, bot is already deployed: https://t.me/blood_sphere_bot
+1. Navigate to Backend Folder
+```
+$ cd Backend
+```
+2. Install required libraries
+```
+$ pip instsall -r requirements.txt
+```
+3. Add your zipcodebase API key and telegram bot API key
+4. To run script
+```
+$ python app.py
+```
+
  
-5. Create a wallet.json file and add your public and private key
-   ```
-    ```
-6. Then import wallet using the private key, use the following command
-  ```
-  ```
-7. run 
-  ```
-   ```
+
+[Telegram Bot](https://t.me/blood_sphere_bot)
+    
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -221,4 +239,4 @@ Don't forget to ⭐ this project!!
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-</details>
+
