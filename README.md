@@ -3,9 +3,11 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="150" height="150">
+    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="250" height="250">
   </a>
+   
 </div>
+<a href="https://youtu.be/GIesmWSPkQM?si=URWYIPF2jeZdHIcz"> Watch Demo</a>
 <!-- TABLE OF CONTENTS -->
 <details>
   <Summary> Table of Contents </Summary>
@@ -52,7 +54,7 @@
 
 
 
-
+![UI/UX](https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/photo_2023-08-28_17-44-40.jpg)
 
 ### 💭Inspiration :
 
@@ -119,7 +121,9 @@ Imagine being in a critical situation where someone in need requires an urgent b
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+## Tracks Used
+1. Best Project Workflow
+2. Best Implementation Of UI/UX
 <!-- GETTING STARTED -->
 ## Getting Started
 For setting up your project locally, follow these simple steps.
@@ -165,7 +169,8 @@ $ python app.py
 
  
 
-[Telegram Bot](https://t.me/blood_sphere_bot)
+[Telegram Bot](https://t.me/blood_sphere_bot) or paste this user name in telegram Search: @blood_sphere_bot
+ 
     
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
