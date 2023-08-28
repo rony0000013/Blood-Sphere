@@ -72,12 +72,26 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 
 ### 🙌Overview 
+•	On the landing page, see the buttons ‘Search for Blood’ and ‘Donate Blood’ respectively.
+
+•	Clicking on the button will take you to our Bot – ‘BloodSphere Bot’
+
+•	Start interacting with the bot through commands such as ‘/start’, ‘/get’ and ‘/donate’.
+
+•	Enter your respective PIN code to get location and details of all the nearby blood banks and hospitals.
 
 
 ### 💀 Challenges we Faced:
+•	Getting a free API to implement the bot was a heavy task.
+•	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
+•	 We couldn’t find any extensive live database that could be implemented in our database.
+•	The bot was to be implemented using WhatsApp API from Twilio but META makes it mandatory to have a Facebook page and takes about 3 weeks for verification, which was not feasible for us.
+
 
  
 ### 🔮 Future Goals:
+• For this project, as we couldn't get an extensive dataset, Our Future plan is to take some aid from the government to get access to some live data covering the availability of the various blood types across the country.
+• Optimisation and minor bug fixes.
 
 
 
