@@ -12,8 +12,20 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+         <ul>
+        <li><a href="#inspiration">Inspiration:</a></li>
+      </ul>
+       <ul>
+        <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
+      </ul>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#overview">Overview:</a></li>
+      </ul>
+      <ul>
+        <li><a href="#challenges-we-faced">Challenges We Faced</a></li>
+      </ul>
+      <ul>
+        <li><a href="#future-plans">Future Plans:</a></li>
       </ul>
     </li>
     <li>
@@ -49,10 +61,10 @@
 ### 🙌Overview 
 
 
-### 💀 Challenges we ran into:
+### 💀 Challenges we Faced:
 
  
-### 🔮 What's Next For Our Project:
+### 🔮 Future Goals:
 
 
 
