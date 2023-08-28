@@ -26,7 +26,7 @@
   <!-- ABOUT THE PROJECT -->
 ## 🤩🤩About The Project🤩🤩
 
-https://user-images.githubusercontent.com/63441472/221376076-b5807660-1f6f-4e8f-8f20-27afd96658d1.mp4
+
 
 
 
