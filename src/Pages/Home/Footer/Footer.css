@@ -1,5 +1,5 @@
 .footer-bg {
-    background-color: #004caa;
+    background-color: #cdb4db;
 }
 
 .single-footer-widget {
@@ -14,7 +14,7 @@
 .widget-title h2 {
     line-height: 1;
     font-size: 30px;
-    color: #fff!important;
+    color: #000000;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 600;
 }
@@ -22,17 +22,19 @@
     font-weight: 400;
     display: block;
     line-height: 34px;
-    color: #ddd!important;
+    color: #000;
 
 }
 
 .footer-link:hover {
-    color: #fc5185 !important; 
+    color: #fff !important; 
+    scale: 1.1;
+    transition: 0.3s ease-in-out;
 }
 
 .footer-copy-right {
     padding: 20px 0;
-    background-color: #1a60b6;
+    background-color: #9c89b8;
 }
 
 .developer {
