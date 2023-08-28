@@ -1645,6 +1645,11 @@ html {
   padding: 5vw;
 }
 
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
 .pb-\[10vh\] {
   padding-bottom: 10vh;
 }

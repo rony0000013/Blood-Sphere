@@ -52,6 +52,7 @@ const Banner = () => {
                                     )} 
                                     
                                 </div>
+                                <p className="text-black py-2">Search on Telegram with "@blood_sphere_bot" if the buttons are not working in your browser.</p>
                             </div>
                         </Col>
                         <Col md={12} sm={12} lg={6} className="mt-sm-5">
