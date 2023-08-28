@@ -15,6 +15,9 @@
          <ul>
         <li><a href="#inspiration">Inspiration:</a></li>
       </ul>
+      <ul>
+        <li><a href="#use-case">USe Case:</a></li>
+      </ul>
        <ul>
         <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
       </ul>
@@ -56,10 +59,16 @@
 • Unawareness of compatible blood availability nearby during emergency: People in need of blood during accidents/ emergency situations tend to rush to blood banks that are far away, potentially risking their life, assuming that there are no blood banks nearby. <br>
 
 • Not knowing where to donate blood: Other than occasional blood donation campaigns, people are often unaware about the fact that the local hospitals run of certain blood types wherein potential blood donors can help them out.
-
-&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;
+### 🎯 Use Case 
+Blood Donation and Searching during contingency
+Imagine being in a critical situation where someone in need requires an urgent blood transfusion. Instead of panicking and rushing to distant blood banks, people can open our blood donation and searching website and try our ‘BloodSphere Bot’. With just a few clicks, you can easily find nearby blood banks/ hospitals with the compatible blood type. Our platform with its user-friendly interface, ensures you're always aware of compatible blood availability during emergencies, saving precious time and potentially saving lives.
 ### 💡What problem does the project solve?
-
+•  Time constraints: In critical situations, people may waste valuable time searching for blood sources, which can delay life-saving treatment. <br>
+•  Effective communication: Traditional ways to find blood donors can be time-consuming and involve long phone calls and large networks, which can slow down the process of getting the blood type you need. <br>
+•  Different distribution of blood types: Lack of a centralized system can lead to mismatched blood types which can be dangerous or even fatal. <br>
+•  Geographic constraints: Patients may not know where the closest blood bank is located, which can lead to wasted travel to remote areas. <br>
+•  Low donor turnout: A lack of visibility and convenient access to donation centres can contribute to low donor turnout and insufficient blood supply.
 
 
 ### 🙌Overview 
@@ -201,7 +210,7 @@ Don't forget to ⭐ this project!!
 <h1 align="center">
  <b>Made with ❤️ by team Semicolon
 <h1>
-<a href="https://github.com/">
+<a href="">
   <img src="" />
 </a>
 </div>
