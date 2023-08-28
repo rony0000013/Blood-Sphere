@@ -5,7 +5,7 @@ import './Appoinment.css';
 
 const Appoinment = () => {
     return (
-        <section id="contact" className="appoinment-wrapper ss:p-5 p-3">
+        <section id="contact" className="appoinment-wrapper mt-5 p-[5vw] m-[2vw]  w-[96vw]  border-[#f3c4fb] rounded-xl border-2">
             <Container>
                 <Row>
                     <Col sm={12} md={12}>

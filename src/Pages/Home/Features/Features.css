@@ -4,7 +4,7 @@
 .single-feature-box {
     border-radius: 10px;
     background-color: #CDB4DB;
-    box-shadow: 8.135px 18.271px 40px 0 rgb(0 0 0 / 8%);
+    /* box-shadow: 8.135px 18.271px 40px 0 rgb(0 0 0 / 8%); */
     padding: 60px 50px 75px;
     transition: all .4s;
     text-align: center;
@@ -39,14 +39,14 @@
     margin-bottom: 10px;
     font-size: 24px;
     line-height: 36px;
-    font-family: "Josefin Sans", sans-serif;
+    font-family:  sans-serif;
     color:black;
 }
 
 .single-feature-box p {
     color: black;
     font-size:20px;
-    font-family: 'Josefin Sans', serif;
+    font-family: serif;
 }
 
 

@@ -1,6 +1,6 @@
 .single-hero-slide {
     background-color: #CDB4DB;
-    font-family: "Josefin Sans", sans-serif;
+    font-family:  sans-serif;
 }
 
 .hero-slide-left {
@@ -95,6 +95,8 @@
         transform: translateY(0px);
     }
 }
+
+
 
 
 /* for mobile responsive */
