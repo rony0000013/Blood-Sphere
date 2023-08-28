@@ -19,16 +19,18 @@
     font-weight: 600;
 }
 .footer-link {
+    font-size: 18px;
     font-weight: 400;
     display: block;
     line-height: 34px;
     color: #000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
 
 .footer-link:hover {
     color: #fff !important; 
-    scale: 1.1;
+    scale: 1.05;
     transition: 0.3s ease-in-out;
 }
 
