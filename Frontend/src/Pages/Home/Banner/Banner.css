@@ -19,7 +19,7 @@
 
 .hero-slide-left p {
     color: #ddd;
-    font-family: 'Roboto Slab', serif;;
+    font-family: sans-serif;
 }
 
 .hero-slide-left button {
@@ -27,7 +27,7 @@
     font-weight: 700;
     outline: none;
     cursor: pointer;
-    font-family: 'Roboto Slab', serif;
+    font-family: sans-serif;
 }
 
 .heroTeeth {

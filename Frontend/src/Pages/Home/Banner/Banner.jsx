@@ -21,16 +21,6 @@ const Banner = () => {
                                         cursorClassName: "hidden",
                                     }}
                                 />
-                                {/* <Typewriter
-                                    options={{
-                                        strings: ["Better Life Through"],
-                                        autoStart: true,
-                                        loop: true,
-                                        skipAddStyles: false,
-                                        wrapperClassName: "text-[50px] font-bold",
-                                        cursorClassName: "text-[50px] font-bold",
-                                    }}
-                                /> */}
                                 <p className="mb-xs-5 text-black">
                                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
                                     illum facere odio dolor. Facilis fugiat earum, quaerat

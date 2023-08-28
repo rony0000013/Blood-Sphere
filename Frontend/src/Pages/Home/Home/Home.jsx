@@ -5,6 +5,7 @@ import About from "../About/About";
 import Appoinment from "../Appoinment/Appoinment";
 import Banner from "../Banner/Banner";
 import FAQ from "../FAQ/FAQ";
+import ScrollToTop from "react-scroll-to-top";
 const Home = () => {
     return (
         <>
@@ -13,6 +14,7 @@ const Home = () => {
             <Feature />
             <FAQ />
             <Appoinment />
+            <ScrollToTop className="text-red" smooth />
         </>
     );
 };
