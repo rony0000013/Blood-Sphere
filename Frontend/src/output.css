@@ -1562,6 +1562,10 @@ html {
   height: 10px;
 }
 
+.w-\[100\%\] {
+  width: 100%;
+}
+
 .w-\[100px\] {
   width: 100px;
 }
@@ -1571,14 +1575,6 @@ html {
 }
 
 .w-full {
-  width: 100%;
-}
-
-.w-\[100\$\] {
-  width: 100$;
-}
-
-.w-\[100\%\] {
   width: 100%;
 }
 
@@ -1615,16 +1611,8 @@ html {
   border-radius: 0.75rem;
 }
 
-.rounded-full {
-  border-radius: 9999px;
-}
-
 .border-2 {
   border-width: 2px;
-}
-
-.border-r {
-  border-right-width: 1px;
 }
 
 .border-\[\#f3c4fb\] {

@@ -22,14 +22,12 @@ const Banner = () => {
                                     }}
                                 />
                                 <p className="mb-xs-5 text-black">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-                                    illum facere odio dolor. Facilis fugiat earum, quaerat
-                                    repudiandae tempora iure!
+                                    BloodSphere is a non-profit organization that aims to connect blood donors with blood recipients. We are committed to saving lives and connect compassionate donors with those in urgent need. With a strong emphasis on confidentiality and safety, we ensure a secure environment for donors and recipients alike. Join us in our mission to make a difference – every drop of blood donated brings us closer to a healthier, happier community. Together, we can create a lifeline of hope through the selfless act of giving.
                                 </p>
                                 <div className="banner-btn m-sm-auto">
                                     <a href="https://t.me/blood_sphere_bot">
                                         <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
-                                            Serach For Blood
+                                            Search For Blood
                                         </button>
                                     </a>{" "}
                                     <a href="https://t.me/blood_sphere_bot">
