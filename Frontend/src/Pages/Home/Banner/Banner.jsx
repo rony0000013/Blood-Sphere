@@ -13,7 +13,7 @@ const Banner = () => {
                             <div className="hero-slide-left justify-content-end align-items-center text-center text-lg-start">
                                 <Typewriter
                                     options={{
-                                        strings: ["Better Life Through", "Better Health"],
+                                        strings: ["Giving Blood", "Giving Life"],
                                         autoStart: true,
                                         loop: true,
                                         skipAddStyles: false,
