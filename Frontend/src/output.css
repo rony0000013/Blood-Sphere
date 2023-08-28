@@ -1525,10 +1525,6 @@ html {
   margin-left: 2.5rem;
 }
 
-.ml-2 {
-  margin-left: 0.5rem;
-}
-
 .ml-6 {
   margin-left: 1.5rem;
 }
@@ -1578,6 +1574,14 @@ html {
   width: 100%;
 }
 
+.w-\[100\$\] {
+  width: 100$;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
 .transform {
   -webkit-transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
           transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
@@ -1599,6 +1603,10 @@ html {
   justify-content: center;
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
@@ -1607,8 +1615,16 @@ html {
   border-radius: 0.75rem;
 }
 
+.rounded-full {
+  border-radius: 9999px;
+}
+
 .border-2 {
   border-width: 2px;
+}
+
+.border-r {
+  border-right-width: 1px;
 }
 
 .border-\[\#f3c4fb\] {
@@ -1717,6 +1733,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  max-width: 100vw;
+  overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -1729,7 +1748,7 @@ body {
   background: #ffffff10;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 100vw;
 }
 
 /* linear-gradient(to left, #09bd78, hsl(351, 83%, 61%)); */
