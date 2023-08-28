@@ -29,7 +29,7 @@ const About = () => {
                                 <p>At BloodSphere, We are committed to saving lives and connect compassionate donors with those in urgent need. With a strong emphasis on confidentiality and safety, we ensure a secure environment for donors and recipients alike. Join us in our mission to make a difference – every drop of blood donated brings us closer to a healthier, happier community. Together, we can create a lifeline of hope through the selfless act of giving.</p>
                                 <a href='#about'>About Us</a>
                             </div>
-                            <div className="fun-fact-sec" data-aos="fade-right">
+                            <div className="fun-fact-sec grid grid-rows-2 grid-cols-2" data-aos="fade-right">
                                 <div className="single-fun">
                                     <span>500</span>
                                     <span>+</span>
