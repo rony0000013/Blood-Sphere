@@ -31,17 +31,17 @@ const About = () => {
                             </div>
                             <div className="fun-fact-sec grid grid-rows-2 grid-cols-2" data-aos="fade-right">
                                 <div className="single-fun">
-                                    <span>500</span>
+                                    <span>100</span>
                                     <span>+</span>
                                     <p>Happy Users</p>
                                 </div>
                                 <div className="single-fun sp-fun" data-aos="fade-right">
-                                    <span>150</span>
+                                    <span>100</span>
                                     <span>+</span>
                                     <p>Hospitals</p>
                                 </div>
                                 <div className="single-fun" data-aos="fade-left">
-                                    <span>100</span>
+                                    <span>200</span>
                                     <span>+</span>
                                     <p>Blood Donation Camps</p>
                                 </div>
