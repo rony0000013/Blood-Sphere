@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="150" height="150">
+    <img src="https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/BLOODSPHERE-01.jpeg" alt="Logo" width="150" height="150">
   </a>
 </div>
 <!-- TABLE OF CONTENTS -->
@@ -16,7 +16,7 @@
         <li><a href="#inspiration">Inspiration:</a></li>
       </ul>
       <ul>
-        <li><a href="#use-case">USe Case:</a></li>
+        <li><a href="#use-case">Use Case:</a></li>
       </ul>
        <ul>
         <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
@@ -103,7 +103,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 
 - <img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="margin-top: 40px" height=30px width=30px > *React*- For developing the Front-end UI <br> 
-- <img src = "https://github.com/Koustavjr/Blood-Sphere/blob/master/src/Images/tailwind-removebg-preview.png" height=40px width=40px>*Tailwind Css and Daisy UI*- For designing the UI  <br>
+- <img src = "https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/tailwind-removebg-preview.png" height=40px width=40px>*Tailwind Css and Daisy UI*- For designing the UI  <br>
 
 - <img src = "https://juststickers.in/wp-content/uploads/2019/01/webpack-logo.png" height=40px width=40px> *WebPack* - Used to bundle the JavaScript packages  <br>
 - <img src = "https://th.bing.com/th/id/OIP.wF-2BeX_-oRQVMGVyQxfowHaEc?pid=ImgDet&rs=1](https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" height=40px width=40px >*Bootstrap*- Used for Designing the front-end <br>
@@ -194,7 +194,7 @@ $ python app.py
 - [x] /donate - to find nearby blood donation camps
 - [ ] Live data fetch and update(Future plan)
 ### WorkFLow
-![](https://github.com/Koustavjr/Blood-Sphere/blob/master/src/Images/workflow.jpg)
+![](https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/workflow.jpg)
       
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
