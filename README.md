@@ -83,7 +83,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 •	Enter your respective PIN code to get location and details of all the nearby blood banks and hospitals.
 
 
-### 💀 Challenges we Faced
+### 💀Challenges we Faced
 •	Getting a free API to implement the bot was a heavy task.
 
 •	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
@@ -94,7 +94,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 
  
-### 🔮 Future Goals:
+### 🔮Future Goals:
 • For this project, as we couldn't get an extensive dataset, Our Future plan is to take some aid from the government to get access to some live data covering the availability of the various blood types across the country.
 
 • Optimisation and minor bug fixes.
@@ -105,7 +105,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 <me-top">back to top</a>)</p>
 
 
-### 💻 Built With
+### 💻Built With
 
 
 - <img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="margin-top: 40px" height=30px width=30px > *React*- For developing the Front-end UI <br> 
