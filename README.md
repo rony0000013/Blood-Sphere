@@ -16,7 +16,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
          <ul>
-        <li><a href="#inspiration">Inspiration:</a></li>
+        <li><a href="#inspiration">Inspiration</a></li>
       </ul>
       <ul>
         <li><a href="#use-case">Use Case:</a></li>
