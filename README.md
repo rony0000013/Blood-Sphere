@@ -22,7 +22,7 @@
         <li><a href="#use-case">Use Case</a></li>
       </ul>
        <ul>
-        <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
+        <li><a href="#what-problem-does-the-project-solve">What Problem does the Project Solve?</a></li>
       </ul>
       <ul>
         <li><a href="#overview">Overview</a></li>
@@ -41,7 +41,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#how-to-use">How To Use</a></li>
     <li><a href="#contributing">Contributing</a></li>
   </ol>
@@ -61,7 +61,7 @@
 • Not knowing where to donate blood: Other than occasional blood donation campaigns, people are often unaware about the fact that the local hospitals run of certain blood types wherein potential blood donors can help them out.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🎯 Use Case 
+### 🎯Use Case 
 Blood Donation and Searching during contingency
 Imagine being in a critical situation where someone in need requires an urgent blood transfusion. Instead of panicking and rushing to distant blood banks, people can open our blood donation and searching website and try our ‘BloodSphere Bot’. With just a few clicks, you can easily find nearby blood banks/ hospitals with the compatible blood type. Our platform with its user-friendly interface, ensures you're always aware of compatible blood availability during emergencies, saving precious time and potentially saving lives.
 
@@ -83,7 +83,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 •	Enter your respective PIN code to get location and details of all the nearby blood banks and hospitals.
 
 
-### 💀 Challenges we Faced
+### 💀Challenges we Faced
 •	Getting a free API to implement the bot was a heavy task.
 
 •	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
@@ -94,7 +94,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 
  
-### 🔮 Future Goals:
+### 🔮Future Goals:
 • For this project, as we couldn't get an extensive dataset, Our Future plan is to take some aid from the government to get access to some live data covering the availability of the various blood types across the country.
 
 • Optimisation and minor bug fixes.
@@ -105,7 +105,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 <me-top">back to top</a>)</p>
 
 
-### 💻 Built With
+### 💻Built With
 
 
 - <img src = "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" style="margin-top: 40px" height=30px width=30px > *React*- For developing the Front-end UI <br> 
