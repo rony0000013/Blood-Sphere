@@ -9,6 +9,7 @@
    
 </div>
 <a href="https://youtu.be/GIesmWSPkQM?si=URWYIPF2jeZdHIcz"> Watch Demo</a>
+<hr />
 <!-- TABLE OF CONTENTS -->
 <details>
   <Summary> Table of Contents  </Summary>
