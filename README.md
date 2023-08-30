@@ -19,7 +19,7 @@
         <li><a href="#inspiration">Inspiration</a></li>
       </ul>
       <ul>
-        <li><a href="#use-case">Use Case</a></li>
+        <li><a href="#-use-case">Use Case</a></li>
       </ul>
        <ul>
         <li><a href="#what-problem-does-the-project-solve">What Problem does the Project Solve?</a></li>
