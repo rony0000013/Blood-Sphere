@@ -19,7 +19,7 @@
         <li><a href="#inspiration">Inspiration</a></li>
       </ul>
       <ul>
-        <li><a href="#-use-case">Use Case</a></li>
+        <li><a href="#use-case">Use Case</a></li>
       </ul>
        <ul>
         <li><a href="#what-problem-does-the-project-solve">What Problem does the Project Solve?</a></li>
@@ -61,7 +61,7 @@
 • Not knowing where to donate blood: Other than occasional blood donation campaigns, people are often unaware about the fact that the local hospitals run of certain blood types wherein potential blood donors can help them out.
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-### 🎯 Use Case 
+### 🎯Use Case 
 Blood Donation and Searching during contingency
 Imagine being in a critical situation where someone in need requires an urgent blood transfusion. Instead of panicking and rushing to distant blood banks, people can open our blood donation and searching website and try our ‘BloodSphere Bot’. With just a few clicks, you can easily find nearby blood banks/ hospitals with the compatible blood type. Our platform with its user-friendly interface, ensures you're always aware of compatible blood availability during emergencies, saving precious time and potentially saving lives.
 
