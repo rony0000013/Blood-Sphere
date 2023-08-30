@@ -16,7 +16,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
          <ul>
-        <li><a href="#inspiration-:">Inspiration:</a></li>
+        <li><a href="#inspiration">Inspiration:</a></li>
       </ul>
       <ul>
         <li><a href="#use-case">Use Case:</a></li>
@@ -28,7 +28,7 @@
         <li><a href="#overview">Overview:</a></li>
       </ul>
       <ul>
-        <li><a href="#challenges-we-faced-:">Challenges We Faced</a></li>
+        <li><a href="#challenges-we-faced">Challenges We Faced</a></li>
       </ul>
       <ul>
         <li><a href="#future-goals">Future Goals:</a></li>
@@ -57,7 +57,7 @@
 
 ![UI/UX](https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/photo_2023-08-28_17-44-40.jpg)
 
-### 💭Inspiration:
+### 💭Inspiration
 
 • Unawareness of compatible blood availability nearby during emergency: People in need of blood during accidents/ emergency situations tend to rush to blood banks that are far away, potentially risking their life, assuming that there are no blood banks nearby. <br>
 
@@ -86,7 +86,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 •	Enter your respective PIN code to get location and details of all the nearby blood banks and hospitals.
 
 
-### 💀 Challenges we Faced:
+### 💀 Challenges we Faced
 •	Getting a free API to implement the bot was a heavy task.
 
 •	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
