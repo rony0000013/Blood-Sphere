@@ -11,27 +11,27 @@
 <a href="https://youtu.be/GIesmWSPkQM?si=URWYIPF2jeZdHIcz"> Watch Demo</a>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <Summary> Table of Contents </Summary>
+  <Summary> Table of Contents  </Summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
          <ul>
-        <li><a href="#inspiration">Inspiration:</a></li>
+        <li><a href="#inspiration">Inspiration</a></li>
       </ul>
       <ul>
-        <li><a href="#use-case">Use Case:</a></li>
+        <li><a href="#use-case">Use Case</a></li>
       </ul>
        <ul>
         <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
       </ul>
       <ul>
-        <li><a href="#overview">Overview:</a></li>
+        <li><a href="#overview">Overview</a></li>
       </ul>
       <ul>
         <li><a href="#challenges-we-faced">Challenges We Faced</a></li>
       </ul>
       <ul>
-        <li><a href="#future-plans">Future Plans:</a></li>
+        <li><a href="#future-goals">Future Goals</a></li>
       </ul>
     </li>
     <li>
@@ -44,9 +44,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#how-to-use">How To Use</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
   <!-- ABOUT THE PROJECT -->
@@ -57,7 +54,7 @@
 
 ![UI/UX](https://github.com/Koustavjr/Blood-Sphere/blob/master/Frontend/src/Images/photo_2023-08-28_17-44-40.jpg)
 
-### 💭Inspiration :
+### 💭Inspiration
 
 • Unawareness of compatible blood availability nearby during emergency: People in need of blood during accidents/ emergency situations tend to rush to blood banks that are far away, potentially risking their life, assuming that there are no blood banks nearby. <br>
 
@@ -86,7 +83,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 •	Enter your respective PIN code to get location and details of all the nearby blood banks and hospitals.
 
 
-### 💀 Challenges we Faced:
+### 💀 Challenges we Faced
 •	Getting a free API to implement the bot was a heavy task.
 
 •	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
@@ -122,6 +119,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 - <img src="https://th.bing.com/th/id/OIP.710tCvb0eHNtcf8DbFOTdwHaHa?pid=ImgDet&rs=1" height=40px width=40px>API used - <br>
             1. Google Map API  <br>
             2. Zip Code Base API <br>
+            3. Telegram Bot API <br>
 - *Email JS* - Use for sending email to user client side technology 
 - <img src="https://th.bing.com/th/id/OIP.P5VJJoua7vc00-2-LBGi8QHaHa?pid=ImgDet&rs=1" height=40px width=40px> Deployment is done in FLy.io
 
