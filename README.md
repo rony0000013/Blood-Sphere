@@ -63,9 +63,11 @@
 
 • Not knowing where to donate blood: Other than occasional blood donation campaigns, people are often unaware about the fact that the local hospitals run of certain blood types wherein potential blood donors can help them out.
 &nbsp;&nbsp;&nbsp;&nbsp;
+
 ### 🎯 Use Case 
 Blood Donation and Searching during contingency
 Imagine being in a critical situation where someone in need requires an urgent blood transfusion. Instead of panicking and rushing to distant blood banks, people can open our blood donation and searching website and try our ‘BloodSphere Bot’. With just a few clicks, you can easily find nearby blood banks/ hospitals with the compatible blood type. Our platform with its user-friendly interface, ensures you're always aware of compatible blood availability during emergencies, saving precious time and potentially saving lives.
+
 ### 💡What problem does the project solve?
 •  Time constraints: In critical situations, people may waste valuable time searching for blood sources, which can delay life-saving treatment. <br>
 •  Effective communication: Traditional ways to find blood donors can be time-consuming and involve long phone calls and large networks, which can slow down the process of getting the blood type you need. <br>
@@ -86,14 +88,18 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 ### 💀 Challenges we Faced:
 •	Getting a free API to implement the bot was a heavy task.
+
 •	Getting PIN code for all the nearby blood banks and hospitals in our database was a difficult task for us.
+
 •	 We couldn’t find any extensive live database that could be implemented in our database.
+
 •	The bot was to be implemented using WhatsApp API from Twilio but META makes it mandatory to have a Facebook page and takes about 3 weeks for verification, which was not feasible for us.
 
 
  
 ### 🔮 Future Goals:
 • For this project, as we couldn't get an extensive dataset, Our Future plan is to take some aid from the government to get access to some live data covering the availability of the various blood types across the country.
+
 • Optimisation and minor bug fixes.
 
 
