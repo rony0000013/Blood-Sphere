@@ -22,7 +22,7 @@
         <li><a href="#use-case">Use Case</a></li>
       </ul>
        <ul>
-        <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
+        <li><a href="#what-problem-does-the-project-solve">What Problem does the Project Solve?</a></li>
       </ul>
       <ul>
         <li><a href="#overview">Overview</a></li>
