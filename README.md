@@ -19,19 +19,19 @@
         <li><a href="#inspiration">Inspiration</a></li>
       </ul>
       <ul>
-        <li><a href="#use-case">Use Case:</a></li>
+        <li><a href="#use-case">Use Case</a></li>
       </ul>
        <ul>
         <li><a href="#what-problem-does-the-project-solve-?">What Problem does the Project Solve?</a></li>
       </ul>
       <ul>
-        <li><a href="#overview">Overview:</a></li>
+        <li><a href="#overview">Overview</a></li>
       </ul>
       <ul>
         <li><a href="#challenges-we-faced">Challenges We Faced</a></li>
       </ul>
       <ul>
-        <li><a href="#future-goals">Future Goals:</a></li>
+        <li><a href="#future-goals">Future Goals</a></li>
       </ul>
     </li>
     <li>
@@ -44,9 +44,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#how-to-use">How To Use</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
   <!-- ABOUT THE PROJECT -->
