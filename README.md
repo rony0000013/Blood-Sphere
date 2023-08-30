@@ -31,7 +31,7 @@
         <li><a href="#challenges-we-faced">Challenges We Faced</a></li>
       </ul>
       <ul>
-        <li><a href="#future-goals">Future Goals</a></li>
+        <li><a href="#future goals">Future Goals</a></li>
       </ul>
     </li>
     <li>
