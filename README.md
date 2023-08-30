@@ -11,7 +11,7 @@
 <a href="https://youtu.be/GIesmWSPkQM?si=URWYIPF2jeZdHIcz"> Watch Demo</a>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <Summary> Table of Contents </Summary>
+  <Summary> Table of Contents  </Summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -122,6 +122,7 @@ Imagine being in a critical situation where someone in need requires an urgent b
 - <img src="https://th.bing.com/th/id/OIP.710tCvb0eHNtcf8DbFOTdwHaHa?pid=ImgDet&rs=1" height=40px width=40px>API used - <br>
             1. Google Map API  <br>
             2. Zip Code Base API <br>
+            3. Telegram Bot API <br>
 - *Email JS* - Use for sending email to user client side technology 
 - <img src="https://th.bing.com/th/id/OIP.P5VJJoua7vc00-2-LBGi8QHaHa?pid=ImgDet&rs=1" height=40px width=40px> Deployment is done in FLy.io
 
