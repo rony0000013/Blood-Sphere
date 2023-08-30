@@ -102,9 +102,9 @@ Imagine being in a critical situation where someone in need requires an urgent b
 
 
 
-<p align="right">(<a href="#read<img width="191" alt="an_logo_light_temp" src="https://user-images.githubusercontent.com/63441472/190889937-afb28215-5bb5-4115-83d2-f7afb73ef8f8.png">
-<a href="top">back to top</a>)</p>
-
+<p align="right"><a href="#read<img width="191" alt="an_logo_light_temp" src="https://user-images.githubusercontent.com/63441472/190889937-afb28215-5bb5-4115-83d2-f7afb73ef8f8.png">
+</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### 💻Built With
 
