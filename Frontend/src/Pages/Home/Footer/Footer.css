@@ -1,5 +1,5 @@
 .footer-bg {
-    background-color: #00003a;
+    background-color: white;
 }
 
 .single-footer-widget {
@@ -14,7 +14,7 @@
 .widget-title h2 {
     line-height: 1;
     font-size: 30px;
-    color: white;
+    color: #482121;
     font-family: sans-serif;
     font-weight: 600;
 }
@@ -23,7 +23,7 @@
     font-weight: 400;
     display: block;
     line-height: 34px;
-    color: white;
+    color: #482121;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }

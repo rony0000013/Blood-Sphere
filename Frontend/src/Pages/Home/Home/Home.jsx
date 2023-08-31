@@ -8,7 +8,7 @@ import FAQ from "../FAQ/FAQ";
 import ScrollToTop from "react-scroll-to-top";
 const Home = () => {
     return (
-        <div className="w-[100%] overflow-hidden">
+        <div className="w-[100%] overflow-hidden bg-[#FFD9C0]">
             <Banner />
             <About />
             <Feature />
