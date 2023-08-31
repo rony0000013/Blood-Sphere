@@ -32,7 +32,7 @@ const About = () => {
                             </div>
                             <div className="fun-fact-sec grid grid-rows-2 grid-cols-2" data-aos="fade-right">
                                 <div className="single-fun">
-                                    <span>100</span>
+                                    <span><CountUp end={100} start={0} duration={10} delay={2} /></span>
                                     <span>+</span>
                                     <p>Happy Users</p>
                                 </div>
