@@ -3,6 +3,7 @@ import "./Banner.css";
 import logo1 from "../../../Images/blood-donation-6035211_1280.png";
 import Typewriter from "typewriter-effect";
 import { useAuth0 } from "@auth0/auth0-react";
+import { SocialIcon } from 'react-social-icons';
 
 const Banner = () => {
     const { user, isAuthenticated, loginWithRedirect } = useAuth0();
@@ -30,23 +31,25 @@ const Banner = () => {
                                     {isAuthenticated ? (<>
                                         <a href="https://t.me/blood_sphere_bot">
                                         <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
+                                            <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white" style={{ height: 25, width: 25 }} />
                                             Search For Blood
                                         </button>
                                     </a>{" "}
                                     <a href="https://t.me/blood_sphere_bot">
                                         <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
+                                        <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white" style={{ height: 25, width: 25 }} />
                                             Donate Blood
                                         </button>
                                     </a>{" "}</>
                                     ): (<>
                                         
                                         <button onClick={() => loginWithRedirect()} className="btn btn-primary btn-lg hover:bg-white hover:text-black">
-                                            Serach For Blood
+                                        <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white"style={{ height: 25, width: 25 }} />  Search For Blood
                                         </button>
                                     {" "}
                                     
                                         <button onClick={() => loginWithRedirect()} className="btn btn-primary btn-lg hover:bg-white hover:text-black">
-                                            Donate Blood
+                                        <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white" style={{ height: 25, width: 25 }} />  Donate Blood
                                         </button>
                                     {" "}</>
                                     )} 
