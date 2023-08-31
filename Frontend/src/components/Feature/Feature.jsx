@@ -6,7 +6,8 @@ import '../../Pages/Home/Features/Features.css';
 const Feature = () => {
     return (
         <section data-aos="fade-up" id="features" className="feature-wrapper bg-[#FFD9C0]">
-            <h1 className="text-center text-4xl font-bold mb-2">Features</h1>
+            <h1 className="text-center text-4xl font-bold mb-2 md:mt-[5vh]">Features</h1>
+            <br />
             <Container>
                 <Row className="g-3">
                         {

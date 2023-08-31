@@ -15,7 +15,7 @@ const About = () => {
         AOS.refresh();
       }, []);
     return (
-        <section id="about" className="about-wrapper pr-4 md:pt-[100px]">
+        <section id="about" className="about-wrapper pr-4 md:pt-[100px] border-b-[5vh] border-white">
             <Container>
                 <Row>
                     <Col md={12} lg={6}>

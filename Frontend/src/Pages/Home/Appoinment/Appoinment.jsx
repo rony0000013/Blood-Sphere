@@ -22,7 +22,7 @@ const Appoinment = () => {
     };
 
     return (
-        <section id="contact" className="appoinment-wrapper mt-5 p-[5vw] m-[2vw]  w-[96vw]  border-[#f3c4fb] rounded-xl border-2">
+        <section id="contact" className=" bg-white appoinment-wrapper mb-5 mt-5 p-[5vw] m-[2vw] w-[96vw] border-[#f3c4fb] rounded-xl border-2">
             <Container>
                 <Row>
                     <Col sm={12} md={12}>

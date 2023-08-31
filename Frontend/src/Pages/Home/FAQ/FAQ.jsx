@@ -2,8 +2,9 @@ import Accordion from "react-bootstrap/Accordion";
 
 const FAQ = () => {
     return (
-        <div className="p-[5vw] m-[2vw]  w-[96vw] " data-aos="fade-up">
-            <h1 className="text-center text-4xl font-bold mb-5" data-aos="zoom-out">Getting Started with the BOT</h1>
+        <div className="border-white border-y-[5vh] mt-10 py-[5vh]">
+        <div className="px-[6vw] m-[2vw] w-[96vw]" data-aos="fade-up">
+            <h1 className="text-center text-4xl font-bold my-5" data-aos="zoom-out">Getting Started with the BOT</h1>
             <Accordion defaultActiveKey={['0']} >
                 <Accordion.Item eventKey="0" >
                     <Accordion.Header >Install Telegram on Device</Accordion.Header>
@@ -42,6 +43,7 @@ const FAQ = () => {
                     </Accordion.Body>
                 </Accordion.Item>
             </Accordion>
+        </div>
         </div>
     );
 };
