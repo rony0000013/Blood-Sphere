@@ -1,3 +1,4 @@
+import CountUp from 'react-countup';
 import AOS from "aos";
 import "aos/dist/aos.css";
 import React, { useEffect } from 'react';
@@ -31,17 +32,17 @@ const About = () => {
                             </div>
                             <div className="fun-fact-sec grid grid-rows-2 grid-cols-2" data-aos="fade-right">
                                 <div className="single-fun">
-                                    <span>100</span>
+                                    <span><CountUp end={100} start={0} duration={10} delay={2} /></span>
                                     <span>+</span>
                                     <p>Happy Users</p>
                                 </div>
                                 <div className="single-fun sp-fun" data-aos="fade-right">
-                                    <span>100</span>
+                                    <span><CountUp end={100} start={0} duration={10} delay={2} /></span>
                                     <span>+</span>
                                     <p>Hospitals</p>
                                 </div>
                                 <div className="single-fun" data-aos="fade-left">
-                                    <span>200</span>
+                                    <span><CountUp end={200} start={0} duration={10} delay={2} /></span>
                                     <span>+</span>
                                     <p>Blood Donation Camps</p>
                                 </div>
