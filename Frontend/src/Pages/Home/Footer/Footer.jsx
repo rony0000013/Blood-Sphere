@@ -8,7 +8,7 @@ const Footer = () => {
     return (
         <div className="footer-bg p-2">
             <Container>
-                <Row className="text-black">
+                <Row className="text-white">
                     <Col xs={6} md={3}>
                         <div className="single-footer-widget ml-10" data-aos="fade-up">
                             <div className="widget-title">

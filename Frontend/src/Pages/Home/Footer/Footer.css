@@ -1,5 +1,5 @@
 .footer-bg {
-    background-color: #cdb4db;
+    background-color: #00003a;
 }
 
 .single-footer-widget {
@@ -14,7 +14,7 @@
 .widget-title h2 {
     line-height: 1;
     font-size: 30px;
-    color: #000000;
+    color: white;
     font-family: sans-serif;
     font-weight: 600;
 }
@@ -23,24 +23,24 @@
     font-weight: 400;
     display: block;
     line-height: 34px;
-    color: #000;
+    color: white;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
 
 .footer-link:hover {
-    color: #fff !important; 
-    scale: 1.05;
+    color: white !important; 
+    scale: 1.03;
     transition: 0.3s ease-in-out;
 }
 
 .footer-copy-right {
     padding: 20px 0;
-    background-color: #9c89b8;
+    background-color: #00003a;
 }
 
 .developer {
-    color: black;
+    color: white;
 }
 
 

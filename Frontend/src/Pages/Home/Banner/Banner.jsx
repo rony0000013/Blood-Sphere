@@ -9,7 +9,7 @@ const Banner = () => {
     const { user, isAuthenticated, loginWithRedirect } = useAuth0();
     return (
         <>
-            <section className="single-hero-slide text-black d-flex justify-content-center align-items-center pb-[10vh] pt-2 pl-4">
+            <section className="single-hero-slide text-[#482121] d-flex justify-content-center align-items-center pb-[10vh] pt-2 pl-4">
                 <Container>
                     <Row className="align-items-center">
                         <Col md={12} sm={12} lg={6}>
@@ -24,31 +24,31 @@ const Banner = () => {
                                         cursorClassName: "hidden",
                                     }}
                                 />
-                                <p className="mb-xs-5 text-black">
+                                <p className="mb-xs-5 text-[#482121]">
                                     BloodSphere is a non-profit organization that aims to connect blood donors with blood recipients. We are committed to saving lives and connect compassionate donors with those in urgent need. With a strong emphasis on confidentiality and safety, we ensure a secure environment for donors and recipients alike. Join us in our mission to make a difference – every drop of blood donated brings us closer to a healthier, happier community. Together, we can create a lifeline of hope through the selfless act of giving.
                                 </p>
                                 <div className="banner-btn m-sm-auto">
                                     {isAuthenticated ? (<>
                                         <a href="https://t.me/blood_sphere_bot">
-                                        <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
+                                        <button className="btn btn-primary bg-[#7E1717] btn-lg hover:bg-white hover:text-black">
                                             <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white" style={{ height: 25, width: 25 }} />
                                             Search For Blood
                                         </button>
                                     </a>{" "}
                                     <a href="https://t.me/blood_sphere_bot">
-                                        <button className="btn btn-primary btn-lg hover:bg-white hover:text-black">
+                                        <button className="btn btn-primary bg-[#7E1717] btn-lg hover:bg-white hover:text-black">
                                         <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white" style={{ height: 25, width: 25 }} />
                                             Donate Blood
                                         </button>
                                     </a>{" "}</>
                                     ): (<>
                                         
-                                        <button onClick={() => loginWithRedirect()} className="btn btn-primary btn-lg hover:bg-white hover:text-black">
+                                        <button onClick={() => loginWithRedirect()} className="btn btn-primary bg-[#7E1717] btn-lg hover:bg-white hover:text-black">
                                         <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white"style={{ height: 25, width: 25 }} />  Search For Blood
                                         </button>
                                     {" "}
                                     
-                                        <button onClick={() => loginWithRedirect()} className="btn btn-primary btn-lg hover:bg-white hover:text-black">
+                                        <button onClick={() => loginWithRedirect()} className="btn btn-primary bg-[#7E1717] btn-lg hover:bg-white hover:text-black">
                                         <SocialIcon url="https://telegram.com/in/jaketrent" fgColor="white" style={{ height: 25, width: 25 }} />  Donate Blood
                                         </button>
                                     {" "}</>

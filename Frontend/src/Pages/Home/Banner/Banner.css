@@ -1,6 +1,7 @@
 .single-hero-slide {
-    background-color: #CDB4DB;
+    background-color: #FFD9C0;
     font-family:  sans-serif;
+    border-bottom: 90px solid white;
 }
 
 .hero-slide-left {
@@ -18,7 +19,7 @@
 }
 
 .hero-slide-left p {
-    color: #ddd;
+    color: #482121;
     font-family: sans-serif;
 }
 
