@@ -42,7 +42,7 @@ const About = () => {
                                     <p>Hospitals</p>
                                 </div>
                                 <div className="single-fun" data-aos="fade-left">
-                                    <span>200</span>
+                                    <span><CountUp end={200} start={0} duration={10} delay={2} /></span>
                                     <span>+</span>
                                     <p>Blood Donation Camps</p>
                                 </div>
