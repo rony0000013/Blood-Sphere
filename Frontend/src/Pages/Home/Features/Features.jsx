@@ -16,7 +16,7 @@ const Features = (props) => {
     return (
         <>
             <Col md={6} xl={4} lg={6} sm={12}>
-                <div className="single-feature-box sm:m-5 m-2 shadow-2xl shadow-indigo-500/50" data-aos="fade-right">
+                <div className="single-feature-box sm:m-5 m-2 bg-amber-950/10 shadow-2xl shadow-amber-950/50 bg-brown-400 rounded-[10px] bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-30 border-[5px] border-amber-950 text-[#482121]" data-aos="fade-right">
                     <div className="icon-box">
                         <img src={img} alt="" />
                     </div>
