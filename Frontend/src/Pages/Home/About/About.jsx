@@ -1,3 +1,4 @@
+import CountUp from 'react-countup';
 import AOS from "aos";
 import "aos/dist/aos.css";
 import React, { useEffect } from 'react';
