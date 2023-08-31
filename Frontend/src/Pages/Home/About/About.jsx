@@ -37,7 +37,7 @@ const About = () => {
                                     <p>Happy Users</p>
                                 </div>
                                 <div className="single-fun sp-fun" data-aos="fade-right">
-                                    <span>100</span>
+                                    <span><CountUp end={100} start={0} duration={10} delay={2} /></span>
                                     <span>+</span>
                                     <p>Hospitals</p>
                                 </div>
